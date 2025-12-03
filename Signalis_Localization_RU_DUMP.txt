@@ -2,8 +2,8 @@
     0 LocalizerLanguage data
      1 string LanguageID = "ru"
      0 LocalizedString LocalizedStrings
-      1 Array Array (1818 items)
-       0 int size = 1818
+      1 Array Array (1915 items)
+       0 int size = 1915
        [0]
         0 LocalizedString data
          1 string StringID = "AirlockKey Inspect"
@@ -7276,4 +7276,391 @@
         0 LocalizedString data
          1 string StringID = "TUT_TaserDemo"
          1 string Localized = "<title>Электроимпульсные устройства</title>\n- Elektroimpulsgerät EIG-2 - \nШокер EIG-2 представляет собой одноразовое нелетальное решение для нейтрализации отказывающихся сотрудничать индивидов на короткой дистанции. \nЕго можно разместить в <style=red>ячейке инструмента</style> в меню снаряжения. После того как вы экипировались этим устройством, оно будет отображаться в нижнем левом углу меню снаряжения. \n<page>Шокер EIG-2 можно использовать одной рукой, на ходу и даже во время прицеливания из другого оружия.  \nЧтобы использовать снаряженный шокер, просто нажмите на {4}, оказавшись рядом с противником.  \n<page>Внимание: высоковольтный электрический разряд также может поразить тех, кто находится радом с мишенью. Пользуйтесь осторожно. Не применяйте против престарелых или беременных лиц, а также лиц с заболеваниями сердца, если в этом нет абсолютной необходимости. После использования надлежащим образом утилизируйте шокер."
- 
+       [1818]
+        0 LocalizedString data
+         1 string StringID = "Console LoggedOut"
+         1 string Localized = "Please log in to your Xbox account to continue playing.\nLogging into another account will reset the current progress.\nPress the "confirm/enter/proceed button" to sign in."
+       [1819]
+        0 LocalizedString data
+         1 string StringID = "Interaction Interact"
+         1 string Localized = "Interact"
+       [1820]
+        0 LocalizedString data
+         1 string StringID = "Interaction Inspect"
+         1 string Localized = "Inspect"
+       [1821]
+        0 LocalizedString data
+         1 string StringID = "Interaction Move"
+         1 string Localized = "Move"
+       [1822]
+        0 LocalizedString data
+         1 string StringID = "Input Move"
+         1 string Localized = "Move"
+       [1823]
+        0 LocalizedString data
+         1 string StringID = "Input Aim"
+         1 string Localized = "Aim (Hold)"
+       [1824]
+        0 LocalizedString data
+         1 string StringID = "Input TurnPage"
+         1 string Localized = "Turn Page"
+       [1825]
+        0 LocalizedString data
+         1 string StringID = "Input Map"
+         1 string Localized = "Map"
+       [1826]
+        0 LocalizedString data
+         1 string StringID = "Input ToggleAimAssist"
+         1 string Localized = "Toggle Aim Assist"
+       [1827]
+        0 LocalizedString data
+         1 string StringID = "Input AimStop"
+         1 string Localized = "Lower (Release)"
+       [1828]
+        0 LocalizedString data
+         1 string StringID = "Input Reload"
+         1 string Localized = "Reload"
+       [1829]
+        0 LocalizedString data
+         1 string StringID = "Move Horizontal"
+         1 string Localized = "Move Horizontal"
+       [1830]
+        0 LocalizedString data
+         1 string StringID = "Move Right"
+         1 string Localized = "Move Right"
+       [1831]
+        0 LocalizedString data
+         1 string StringID = "Move Left"
+         1 string Localized = "Move Left"
+       [1832]
+        0 LocalizedString data
+         1 string StringID = "Move Vertical"
+         1 string Localized = "Move Vertical"
+       [1833]
+        0 LocalizedString data
+         1 string StringID = "Move Up"
+         1 string Localized = "Move Up"
+       [1834]
+        0 LocalizedString data
+         1 string StringID = "Move Down"
+         1 string Localized = "Move Down"
+       [1835]
+        0 LocalizedString data
+         1 string StringID = "Aim Horizontal"
+         1 string Localized = "Aim Horizontal"
+       [1836]
+        0 LocalizedString data
+         1 string StringID = "Aim Vertical"
+         1 string Localized = "Aim Vertical"
+       [1837]
+        0 LocalizedString data
+         1 string StringID = "Tune Radio"
+         1 string Localized = "Tune Radio"
+       [1838]
+        0 LocalizedString data
+         1 string StringID = "Tune Right"
+         1 string Localized = "Tune Frequency Right"
+       [1839]
+        0 LocalizedString data
+         1 string StringID = "Tune Left"
+         1 string Localized = "Tune Frequency Left"
+       [1840]
+        0 LocalizedString data
+         1 string StringID = "Interact"
+         1 string Localized = "Interact"
+       [1841]
+        0 LocalizedString data
+         1 string StringID = "Inventory"
+         1 string Localized = "Inventory"
+       [1842]
+        0 LocalizedString data
+         1 string StringID = "Map"
+         1 string Localized = "Map"
+       [1843]
+        0 LocalizedString data
+         1 string StringID = "Run"
+         1 string Localized = "Run (Hold)"
+       [1844]
+        0 LocalizedString data
+         1 string StringID = "Aim Mode"
+         1 string Localized = "Aim Mode (Hold)"
+       [1845]
+        0 LocalizedString data
+         1 string StringID = "Attack"
+         1 string Localized = "Attack"
+       [1846]
+        0 LocalizedString data
+         1 string StringID = "Reload"
+         1 string Localized = "Reload"
+       [1847]
+        0 LocalizedString data
+         1 string StringID = "Toggle Radio"
+         1 string Localized = "Toggle Radio"
+       [1848]
+        0 LocalizedString data
+         1 string StringID = "Rebind Gamepad"
+         1 string Localized = "Rebind gamepad controls."
+       [1849]
+        0 LocalizedString data
+         1 string StringID = "Rebind Keyboard"
+         1 string Localized = "Rebind Keyboard controls."
+       [1850]
+        0 LocalizedString data
+         1 string StringID = "Rebind IconStyle"
+         1 string Localized = "Set icon style (only available for xinput controllers.)"
+       [1851]
+        0 LocalizedString data
+         1 string StringID = "Rebind PrevGamepad"
+         1 string Localized = "Select previous gamepad."
+       [1852]
+        0 LocalizedString data
+         1 string StringID = "Rebind NextGamepad"
+         1 string Localized = "Select next gamepad."
+       [1853]
+        0 LocalizedString data
+         1 string StringID = "Rebind MoveHori"
+         1 string Localized = "Left and Right Character Movement Axis."
+       [1854]
+        0 LocalizedString data
+         1 string StringID = "Rebind MoveRight"
+         1 string Localized = "Moves Character to the right (relative to the screen)."
+       [1855]
+        0 LocalizedString data
+         1 string StringID = "Rebind MoveLeft"
+         1 string Localized = "Moves Character to the left (relative to the screen)."
+       [1856]
+        0 LocalizedString data
+         1 string StringID = "Rebind MoveVert"
+         1 string Localized = "Up and Down Character Movement Axis."
+       [1857]
+        0 LocalizedString data
+         1 string StringID = "Rebind MoveDown"
+         1 string Localized = "Moves Character downwards (relative to the screen)."
+       [1858]
+        0 LocalizedString data
+         1 string StringID = "Rebind MoveUp"
+         1 string Localized = "Moves Character upwards (relative to the screen)."
+       [1859]
+        0 LocalizedString data
+         1 string StringID = "Rebind AimHori"
+         1 string Localized = "Aim weapon horizontally (relative to the screen)."
+       [1860]
+        0 LocalizedString data
+         1 string StringID = "Rebind AimVert"
+         1 string Localized = "Aim weapon vertically (relative to the screen)."
+       [1861]
+        0 LocalizedString data
+         1 string StringID = "Rebind Use"
+         1 string Localized = "Main Key used for interacting (use, pick up, inspect)."
+       [1862]
+        0 LocalizedString data
+         1 string StringID = "Rebind Aim"
+         1 string Localized = "Hold to draw equipped weapon."
+       [1863]
+        0 LocalizedString data
+         1 string StringID = "Rebind Inventory"
+         1 string Localized = "Toggles the inventory screen."
+       [1864]
+        0 LocalizedString data
+         1 string StringID = "Rebind Sprint"
+         1 string Localized = "Hold to move faster."
+       [1865]
+        0 LocalizedString data
+         1 string StringID = "Rebind Fire"
+         1 string Localized = "Press to use equipped weapon while aiming."
+       [1866]
+        0 LocalizedString data
+         1 string StringID = "Rebind Reload"
+         1 string Localized = "Press to reload equipped weapon while aiming."
+       [1867]
+        0 LocalizedString data
+         1 string StringID = "Rebind Map"
+         1 string Localized = "Open the map screen."
+       [1868]
+        0 LocalizedString data
+         1 string StringID = "Rebind Radio"
+         1 string Localized = "Toggles the radio."
+       [1869]
+        0 LocalizedString data
+         1 string StringID = "Rebind Tune"
+         1 string Localized = "Radio frequency tuning Axis."
+       [1870]
+        0 LocalizedString data
+         1 string StringID = "Rebind TuneRight"
+         1 string Localized = "Press to tune the radio frequency right."
+       [1871]
+        0 LocalizedString data
+         1 string StringID = "Rebind TuneLeft"
+         1 string Localized = "Press to tune the radio frequency left."
+       [1872]
+        0 LocalizedString data
+         1 string StringID = "Rebind Save"
+         1 string Localized = "Save changes."
+       [1873]
+        0 LocalizedString data
+         1 string StringID = "Rebind Reset"
+         1 string Localized = "Reset all bindings to the defaults."
+       [1874]
+        0 LocalizedString data
+         1 string StringID = "Rebind Cancel"
+         1 string Localized = "Unsaved changes will be lost."
+       [1875]
+        0 LocalizedString data
+         1 string StringID = "Rebind NoController"
+         1 string Localized = "No Controller attached"
+       [1876]
+        0 LocalizedString data
+         1 string StringID = "Rebind ConnectPrompt"
+         1 string Localized = "Connect a controller\nto assign Controls"
+       [1877]
+        0 LocalizedString data
+         1 string StringID = "Rebind AssignPrompt"
+         1 string Localized = "Press key to assign\nPress ESC to cancel"
+       [1878]
+        0 LocalizedString data
+         1 string StringID = "END_Adler_9_Leave"
+         1 string Localized = "[Adler] You selfish monster.\n[Adler] You can't just leave."
+       [1879]
+        0 LocalizedString data
+         1 string StringID = "END_Adler_9_Death"
+         1 string Localized = "[Adler] You'll kill us all."
+       [1880]
+        0 LocalizedString data
+         1 string StringID = "ELSTER"
+         1 string Localized = "Elster"
+       [1881]
+        0 LocalizedString data
+         1 string StringID = "WOMAN"
+         1 string Localized = "Woman"
+       [1882]
+        0 LocalizedString data
+         1 string StringID = "ARIANE"
+         1 string Localized = "Ariane"
+       [1883]
+        0 LocalizedString data
+         1 string StringID = "ISA"
+         1 string Localized = "Isa"
+       [1884]
+        0 LocalizedString data
+         1 string StringID = "REBECCA"
+         1 string Localized = "Rebecca"
+       [1885]
+        0 LocalizedString data
+         1 string StringID = "ADLER"
+         1 string Localized = "Adler"
+       [1886]
+        0 LocalizedString data
+         1 string StringID = "ALINA"
+         1 string Localized = "Alina"
+       [1887]
+        0 LocalizedString data
+         1 string StringID = "EULE"
+         1 string Localized = "Eule"
+       [1888]
+        0 LocalizedString data
+         1 string StringID = "openDoorDialogue message"
+         1 string Localized = "Used <style=red>{0}</style>."
+       [1889]
+        0 LocalizedString data
+         1 string StringID = "openDoorDialogue yes"
+         1 string Localized = "Yes"
+       [1890]
+        0 LocalizedString data
+         1 string StringID = "openDoorDialogue no"
+         1 string Localized = "No"
+       [1891]
+        0 LocalizedString data
+         1 string StringID = "DET_RadioPainting"
+         1 string Localized = "A painting of a serene coastline.\nI feel like I've seen this painting before…"
+       [1892]
+        0 LocalizedString data
+         1 string StringID = "DET_RadioPainting2"
+         1 string Localized = "A sketch of some rocks by the sea."
+       [1893]
+        0 LocalizedString data
+         1 string StringID = "LAB_Tree_Doll"
+         1 string Localized = "The base of the doll fits the size of the slot, but it wouldn't stay in place."
+       [1894]
+        0 LocalizedString data
+         1 string StringID = "MEM_Somewhere Upper Gallery"
+         1 string Localized = "Upper Gallery"
+       [1895]
+        0 LocalizedString data
+         1 string StringID = "MEM_Somewhere Personnel"
+         1 string Localized = "Personnel"
+       [1896]
+        0 LocalizedString data
+         1 string StringID = "MEM_Somewhere Cryogenics"
+         1 string Localized = "Cryogenics"
+       [1897]
+        0 LocalizedString data
+         1 string StringID = "MEM_Somewhere Stern Hall"
+         1 string Localized = "Stern Hall"
+       [1898]
+        0 LocalizedString data
+         1 string StringID = "Glock"
+         1 string Localized = "Burst Pistol"
+       [1899]
+        0 LocalizedString data
+         1 string StringID = "Glock Short"
+         1 string Localized = "Burst Pistol"
+       [1900]
+        0 LocalizedString data
+         1 string StringID = "Glock Description"
+         1 string Localized = "A burst fire pistol. Fires 3-round bursts of 9mm ammo from a 30-round magazine."
+       [1901]
+        0 LocalizedString data
+         1 string StringID = "Health100"
+         1 string Localized = "Repair Kit"
+       [1902]
+        0 LocalizedString data
+         1 string StringID = "Health100 Short"
+         1 string Localized = "Repair Kit"
+       [1903]
+        0 LocalizedString data
+         1 string StringID = "Health100 Description"
+         1 string Localized = "A small case containing spare parts and tools for repairing damaged Replika bodies. \nRestores full health."
+       [1904]
+        0 LocalizedString data
+         1 string StringID = "Machete"
+         1 string Localized = "Machete"
+       [1905]
+        0 LocalizedString data
+         1 string StringID = "Machete Short"
+         1 string Localized = "Machete"
+       [1906]
+        0 LocalizedString data
+         1 string StringID = "Machete Description"
+         1 string Localized = "A heavy, straight-edged survival blade."
+       [1907]
+        0 LocalizedString data
+         1 string StringID = "Medication"
+         1 string Localized = "Pill Bottle"
+       [1908]
+        0 LocalizedString data
+         1 string StringID = "Medication Short"
+         1 string Localized = "Pill Bottle"
+       [1909]
+        0 LocalizedString data
+         1 string StringID = "Medication Description"
+         1 string Localized = "A small bottle of pills."
+       [1910]
+        0 LocalizedString data
+         1 string StringID = "SignPieceUnknown"
+         1 string Localized = "Mysterious Artifact"
+       [1911]
+        0 LocalizedString data
+         1 string StringID = "SignPieceUnknown Short"
+         1 string Localized = "Artifact"
+       [1912]
+        0 LocalizedString data
+         1 string StringID = "Tooth"
+         1 string Localized = "Tooth"
+       [1913]
+        0 LocalizedString data
+         1 string StringID = "Tooth Short"
+         1 string Localized = "Tooth"
+       [1914]
+        0 LocalizedString data
+         1 string StringID = "Tooth Description"
+         1 string Localized = "A loose molar tooth. "
