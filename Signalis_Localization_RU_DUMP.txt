@@ -63,7 +63,7 @@
        [14]
         0 LocalizedString data
          1 string StringID = "SocketHandle Inspect"
-         1 string Localized = "Без гнездового переходника использовать нельзя."
+         1 string Localized = "Бесполезно без переходника."
        [15]
         0 LocalizedString data
          1 string StringID = "SocketWrench Inspect"
@@ -71,7 +71,7 @@
        [16]
         0 LocalizedString data
          1 string StringID = "VCR Inspect"
-         1 string Localized = "Компактная кассета формата SVK с магнитной лентой, покрытой диоксидом хрома."
+         1 string Localized = "Компактная кассета формата SVK с магнитной лентой, покрытой диоксидом хрома. !!!123ТЕСТ УДАЛИТЬ НАХУЙ ЗАВТРА В 3"
        [17]
         0 LocalizedString data
          1 string StringID = "IncineratorKey Inspect"
