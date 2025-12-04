@@ -7619,7 +7619,7 @@
        [1903]
         0 LocalizedString data
          1 string StringID = "Health100 Description"
-         1 string Localized = "Небольшой чемодан с инструментами и запчасти для починки тел Реплик. \nПолностью восстанавливает здоровье."
+         1 string Localized = "Небольшой чемодан с инструментами и запчастями для починки тел Реплик. \nПолностью восстанавливает здоровье."
        [1904]
         0 LocalizedString data
          1 string StringID = "Machete"
