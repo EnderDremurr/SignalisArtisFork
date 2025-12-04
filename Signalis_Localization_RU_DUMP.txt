@@ -7607,60 +7607,60 @@
        [1900]
         0 LocalizedString data
          1 string StringID = "Glock Description"
-         1 string Localized = "A burst fire pistol. Fires 3-round bursts of 9mm ammo from a 30-round magazine."
+         1 string Localized = "Пистолет с режимом серийного огня. Выстреливает сериями из 3-х 9мм патронов, с магазином в 30.."
        [1901]
         0 LocalizedString data
          1 string StringID = "Health100"
-         1 string Localized = "Repair Kit"
+         1 string Localized = "Набор для починки"
        [1902]
         0 LocalizedString data
          1 string StringID = "Health100 Short"
-         1 string Localized = "Repair Kit"
+         1 string Localized = "Набор для починки"
        [1903]
         0 LocalizedString data
          1 string StringID = "Health100 Description"
-         1 string Localized = "A small case containing spare parts and tools for repairing damaged Replika bodies. \nRestores full health."
+         1 string Localized = "Небольшой чемодан с инструментами и запчасти для починки тел Реплик. \nПолностью восстанавливает здоровье."
        [1904]
         0 LocalizedString data
          1 string StringID = "Machete"
-         1 string Localized = "Machete"
+         1 string Localized = "Мачете"
        [1905]
         0 LocalizedString data
          1 string StringID = "Machete Short"
-         1 string Localized = "Machete"
+         1 string Localized = "Мачете"
        [1906]
         0 LocalizedString data
          1 string StringID = "Machete Description"
-         1 string Localized = "A heavy, straight-edged survival blade."
+         1 string Localized = "Тяжелый, прямой клинок для выживания."
        [1907]
         0 LocalizedString data
          1 string StringID = "Medication"
-         1 string Localized = "Pill Bottle"
+         1 string Localized = "Баночка с таблетками"
        [1908]
         0 LocalizedString data
          1 string StringID = "Medication Short"
-         1 string Localized = "Pill Bottle"
+         1 string Localized = "Баночка с таблетками"
        [1909]
         0 LocalizedString data
          1 string StringID = "Medication Description"
-         1 string Localized = "A small bottle of pills."
+         1 string Localized = "Небольшая баночка с таблетками."
        [1910]
         0 LocalizedString data
          1 string StringID = "SignPieceUnknown"
-         1 string Localized = "Mysterious Artifact"
+         1 string Localized = "Загадочный артефакт"
        [1911]
         0 LocalizedString data
          1 string StringID = "SignPieceUnknown Short"
-         1 string Localized = "Artifact"
+         1 string Localized = "Артефакт"
        [1912]
         0 LocalizedString data
          1 string StringID = "Tooth"
-         1 string Localized = "Tooth"
+         1 string Localized = "Зуб"
        [1913]
         0 LocalizedString data
          1 string StringID = "Tooth Short"
-         1 string Localized = "Tooth"
+         1 string Localized = "Зуб"
        [1914]
         0 LocalizedString data
          1 string StringID = "Tooth Description"
-         1 string Localized = "A loose molar tooth. "
+         1 string Localized = "Шатающийся молярный зуб."
