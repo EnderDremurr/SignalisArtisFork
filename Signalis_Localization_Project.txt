@@ -1,177 +1,177 @@
-[1]
+[8]
     0 LocalizerLanguage data
-     1 string LanguageID = "en"
+     1 string LanguageID = "ru"
      0 LocalizedString LocalizedStrings
       1 Array Array (1915 items)
        0 int size = 1915
        [0]
         0 LocalizedString data
          1 string StringID = "AirlockKey Inspect"
-         1 string Localized = "The magnetic strip is lined up perfectly, so it should work again."
+         1 string Localized = "Магнитная лента восстановлена идеально, так что будет работать снова."
        [1]
         0 LocalizedString data
          1 string StringID = "BrokenKey Inspect"
-         1 string Localized = "If I can find a way to hold both halves together precisely, it might still work."
+         1 string Localized = "Если я найду способ идеально совместить половинки, может заработать снова."
        [2]
         0 LocalizedString data
          1 string StringID = "Tape Inspect"
-         1 string Localized = "A small roll of adhesive tape."
+         1 string Localized = "Маленький рулон клейкой ленты."
        [3]
         0 LocalizedString data
          1 string StringID = "BoneKey Inspect"
-         1 string Localized = "The corners of the key are cut out in an irregular pattern."
+         1 string Localized = "Углы ключа неравномерно вырезаны."
        [4]
         0 LocalizedString data
          1 string StringID = "BoneKeyA Inspect"
-         1 string Localized = "An intricate butterfly wing made from colored glass is inlaid on one end of the key."
+         1 string Localized = "Рукоятка ключа украшена сложным орнаментом в виде крыла бабочки из цветного стекла."
        [5]
         0 LocalizedString data
          1 string StringID = "BoneKeyB Inspect"
-         1 string Localized = "An intricate butterfly wing made from colored glass is inlaid on one end of the key."
+         1 string Localized = "Рукоятка ключа украшена сложным орнаментом в виде крыла бабочки из цветного стекла."
        [6]
         0 LocalizedString data
          1 string StringID = "SurfaceKey Inspect"
-         1 string Localized = "A visitor pass for AEON Facility S-23 Sierpinski."
+         1 string Localized = "Гостевой пропуск на объект С-23 «Серпински»"
        [7]
         0 LocalizedString data
          1 string StringID = "ClassRoomKey Inspect"
-         1 string Localized = "Opens the classroom 4C doorway in the Aula on level 1."
+         1 string Localized = "Открывает дверь в аудиторию 4C в ауле на уровне 1."
        [8]
         0 LocalizedString data
          1 string StringID = "ObservationKey Inspect"
-         1 string Localized = "Level 1\nProtektor\nS-23 <mspace=1.5em>█████████</mspace>\nObservation"
+         1 string Localized = "Уровень 1\nПротектор\nС-23 <mspace=1.5em>█████████</mspace>\nНаблюдение"
        [9]
         0 LocalizedString data
          1 string StringID = "KeyOfWater Inspect"
-         1 string Localized = "A unique circuit is etched onto the card."
+         1 string Localized = "На карте вытравлена уникальная электрическая схема."
        [10]
         0 LocalizedString data
          1 string StringID = "KeyOfFire Inspect"
-         1 string Localized = "A unique circuit is etched onto the card."
+         1 string Localized = "На карте вытравлена уникальная электрическая схема."
        [11]
         0 LocalizedString data
          1 string StringID = "KeyOfAir Inspect"
-         1 string Localized = "A unique circuit is etched onto the card."
+         1 string Localized = "На карте вытравлена уникальная электрическая схема."
        [12]
         0 LocalizedString data
          1 string StringID = "KeyOfGold Inspect"
-         1 string Localized = "Something seems strange about this key, like it doesn't belong here…"
+         1 string Localized = "Очень странный ключ — как будто ему тут не место…"
        [13]
         0 LocalizedString data
          1 string StringID = "Socket10mm Inspect"
-         1 string Localized = "Without a handle, it's impossible to use."
+         1 string Localized = "Без рукоятки — использовать невозможно."
        [14]
         0 LocalizedString data
          1 string StringID = "SocketHandle Inspect"
-         1 string Localized = "Useless without a socket adapter."
+         1 string Localized = "Бесполезно без переходника."
        [15]
         0 LocalizedString data
          1 string StringID = "SocketWrench Inspect"
-         1 string Localized = "Perfect for loosening 10mm hexagonal bolts."
+         1 string Localized = "Идеально подходит для откручивания 10-миллиметровых шестиугольных болтов."
        [16]
         0 LocalizedString data
          1 string StringID = "VCR Inspect"
-         1 string Localized = "An SVK-format compact cassette containing chromium dioxide magnetic tape."
+         1 string Localized = "Компактная кассета формата SVK с магнитной лентой, покрытой диоксидом хрома. !!!123ТЕСТ УДАЛИТЬ НАХУЙ ЗАВТРА В 3"
        [17]
         0 LocalizedString data
          1 string StringID = "IncineratorKey Inspect"
-         1 string Localized = "Access Card\nS-23 Personnel\nIncinerator"
+         1 string Localized = "Карта доступа\nПерсонал С-23\nКрематорий"
        [18]
         0 LocalizedString data
          1 string StringID = "ExamKey Inspect"
-         1 string Localized = "Access Card\nS-23 Personnel\nExamination Room"
+         1 string Localized = "Карта доступа\nПерсонал С-23\nСмотровая"
        [19]
         0 LocalizedString data
          1 string StringID = "PumpKey Inspect"
-         1 string Localized = "Access Card\nS-23 Personnel\nPump Control Room"
+         1 string Localized = "Карта доступа\nПерсонал С-23\nСтанция управления насосами"
        [20]
         0 LocalizedString data
          1 string StringID = "AdlersKey Inspect"
-         1 string Localized = "Normally authorizes an ADLR unit access to their personal quarters."
+         1 string Localized = "Обычно обеспечивает доступ модулям ADLR в их личные помещения."
        [21]
         0 LocalizedString data
          1 string StringID = "ShutterHandle Inspect"
-         1 string Localized = "I can use this to open a shuttered door."
+         1 string Localized = "Этим можно открыть заблокированную дверь."
        [22]
         0 LocalizedString data
          1 string StringID = "MusicCassette Inspect"
-         1 string Localized = ""Owl Songs". The cassette seems to be part of a set of songs popular with Eule units."
+         1 string Localized = "«Песни сов». Кажется, это кассета из комплекта, который стал популярным у модулей «Ойле»."
        [23]
         0 LocalizedString data
          1 string StringID = "PaintingKey Inspect"
-         1 string Localized = "The engraving is very crude, but it looks like an island with tall trees on it."
+         1 string Localized = "Качество гравировки оставляет желать лучшего, но это, кажется, остров, поросший деревьями."
        [24]
         0 LocalizedString data
          1 string StringID = "ElevatorFuse Inspect"
-         1 string Localized = "A large and heavy fuse for high-voltage electrical equipment."
+         1 string Localized = "Большой и тяжелый предохранитель для высоковольтного электрического оборудования."
        [25]
         0 LocalizedString data
          1 string StringID = "ShotgunCaseKey Inspect"
-         1 string Localized = "The tag is signed "Hunter"."
+         1 string Localized = "На бирке написано «Охотник»."
        [26]
         0 LocalizedString data
          1 string StringID = "PostboxKey Inspect"
-         1 string Localized = "Opens postbox 0512."
+         1 string Localized = "Открывает почтовый ящик 0512."
        [27]
         0 LocalizedString data
          1 string StringID = "OwlKey Inspect"
-         1 string Localized = "Normally authorizes an EULR unit access to their personal quarters."
+         1 string Localized = "Обычно обеспечивает доступ модулям EULR в их личные помещения."
        [28]
         0 LocalizedString data
          1 string StringID = "KolibriKey Inspect"
-         1 string Localized = "Normally authorizes a KLBR unit access to their personal quarters."
+         1 string Localized = "Обычно обеспечивает доступ модулям KLBR в их личные помещения."
        [29]
         0 LocalizedString data
          1 string StringID = "Doll_M Inspect"
-         1 string Localized = "It can be easily opened to fit a smaller doll inside."
+         1 string Localized = "Легко открывается. Внутрь можно поместить куклу поменьше."
        [30]
         0 LocalizedString data
          1 string StringID = "Doll_SM Inspect"
-         1 string Localized = "It feels heavy and solid, but it won't stand upright."
+         1 string Localized = "Тяжелая и прочная, но стоять ровно не будет."
        [31]
         0 LocalizedString data
          1 string StringID = "Doll_B Inspect"
-         1 string Localized = "I've heard these nesting dolls are a popular children's toy on Rotfront."
+         1 string Localized = "Говорят, такие куклы очень популярны среди детей на Ротфронте."
        [32]
         0 LocalizedString data
          1 string StringID = "Doll_S Inspect"
-         1 string Localized = "Surprisingly heavy."
+         1 string Localized = "На удивление тяжелая."
        [33]
         0 LocalizedString data
          1 string StringID = "Doll_BS Inspect"
-         1 string Localized = "The small doll inside rattles around when I shake it."
+         1 string Localized = "Если потрясти, внутри гремит кукла поменьше."
        [34]
         0 LocalizedString data
          1 string StringID = "Doll_BM Inspect"
-         1 string Localized = "It looks like it's missing a doll."
+         1 string Localized = "Кажется, тут не хватает куклы."
        [35]
         0 LocalizedString data
          1 string StringID = "Doll_BMS Inspect"
-         1 string Localized = "It's painted to resemble a Mynah unit."
+         1 string Localized = "Раскрашено под модуль «Майна»."
        [36]
         0 LocalizedString data
          1 string StringID = "PlateBalance Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "Поверхность напоминает гладкий, отполированный черный мрамор или гранит, но внутри что-то мягкое и влажное."
        [37]
         0 LocalizedString data
          1 string StringID = "PlateLove Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "Поверхность напоминает гладкий, отполированный черный мрамор или гранит, но внутри что-то мягкое и влажное."
        [38]
         0 LocalizedString data
          1 string StringID = "PlateSacrifice Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "Поверхность напоминает гладкий, отполированный черный мрамор или гранит, но внутри что-то мягкое и влажное."
        [39]
         0 LocalizedString data
          1 string StringID = "PlateKnowledge Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "Поверхность напоминает гладкий, отполированный черный мрамор или гранит, но внутри что-то мягкое и влажное."
        [40]
         0 LocalizedString data
          1 string StringID = "PlateEternity Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "Поверхность напоминает гладкий, отполированный черный мрамор или гранит, но внутри что-то мягкое и влажное."
        [41]
         0 LocalizedString data
          1 string StringID = "PlateFlesh Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "Поверхность напоминает гладкий, отполированный черный мрамор или гранит, но внутри что-то мягкое и влажное."
        [42]
         0 LocalizedString data
          1 string StringID = "RingSerpent Inspect"
