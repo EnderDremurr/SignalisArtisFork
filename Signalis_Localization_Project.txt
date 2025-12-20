@@ -175,63 +175,63 @@
        [42]
         0 LocalizedString data
          1 string StringID = "RingSerpent Inspect"
-         1 string Localized = "It resembles Ouroboros, sometimes called "Serpent of Eternity"."
+         1 string Localized = "Напоминает Уробоса, иногда называемого "Змеем вечности""
        [43]
         0 LocalizedString data
          1 string StringID = "RingBride Inspect"
-         1 string Localized = ""Till death do us part"."
+         1 string Localized = ""Пока смерть нас не разлучит"."
        [44]
         0 LocalizedString data
          1 string StringID = "RingRegent Inspect"
-         1 string Localized = ""This too shall pass"."
+         1 string Localized = ""Это тоже подойдёт"."
        [45]
         0 LocalizedString data
          1 string StringID = "RustedKey Inspect"
-         1 string Localized = "The metal surface is completely covered in rust."
+         1 string Localized = "Металлическая поверхность полностью покрыта ржавчиной."
        [46]
         0 LocalizedString data
          1 string StringID = "Incense Inspect"
-         1 string Localized = "The smell of incense makes me feel melancholic."
+         1 string Localized = "Запах ладана вызывает у меня меланхолию."
        [47]
         0 LocalizedString data
          1 string StringID = "TarotDeath Inspect"
-         1 string Localized = ""XIII - Death"."
+         1 string Localized = ""XIII - Смерть"."
        [48]
         0 LocalizedString data
          1 string StringID = "TarotTower Inspect"
-         1 string Localized = ""XVI - Tower"."
+         1 string Localized = ""XVI - Башня"."
        [49]
         0 LocalizedString data
          1 string StringID = "TarotMoon Inspect"
-         1 string Localized = ""XVIII - Moon"."
+         1 string Localized = ""XVIII - Луна"."
        [50]
         0 LocalizedString data
          1 string StringID = "TarotStar Inspect"
-         1 string Localized = ""XVII - Star"."
+         1 string Localized = ""XVII - Звезда"."
        [51]
         0 LocalizedString data
          1 string StringID = "TarotSun Inspect"
-         1 string Localized = ""XIX - Sun"."
+         1 string Localized = ""XIX - Солнце"."
        [52]
         0 LocalizedString data
          1 string StringID = "TarotLovers Inspect"
-         1 string Localized = ""VI - Lovers"."
+         1 string Localized = ""VI - Влюблённые"."
        [53]
         0 LocalizedString data
          1 string StringID = "ValveHandwheel Inspect"
-         1 string Localized = "The paint is chipping off this old, heavy handwheel."
+         1 string Localized = "С этого старого, тяжелого маховика облупливается краска."
        [54]
         0 LocalizedString data
          1 string StringID = "DiskBlue Inspect"
-         1 string Localized = "There's no label on the disk apart from the manufacturer's mark."
+         1 string Localized = "Кроме знака производителя, на этом диске нет никакой маркировки."
        [55]
         0 LocalizedString data
          1 string StringID = "DiskRed Inspect"
-         1 string Localized = ""Patients (archived)"."
+         1 string Localized = ""Пациенты (заархивировано)"."
        [56]
         0 LocalizedString data
          1 string StringID = "StoreKey Inspect"
-         1 string Localized = ""Yeong Photo Store"."
+         1 string Localized = ""Фотомагазин Ён"."
        [57]
         0 LocalizedString data
          1 string StringID = "MeatKey Inspect"
@@ -6727,11 +6727,11 @@
        [1680]
         0 LocalizedString data
          1 string StringID = "Incense"
-         1 string Localized = "Incense"
+         1 string Localized = "Ладан"
        [1681]
         0 LocalizedString data
          1 string StringID = "Incense Short"
-         1 string Localized = "Incense"
+         1 string Localized = "Ладан"
        [1682]
         0 LocalizedString data
          1 string StringID = "Incense Description"
