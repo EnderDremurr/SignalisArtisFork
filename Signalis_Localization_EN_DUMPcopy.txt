@@ -151,27 +151,27 @@
        [36]
         0 LocalizedString data
          1 string StringID = "PlateBalance Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "По виду, поверхность сделана из гладкого, полированного мрамора или гранита, однако внутри находится что-то влажное и мягкое."
        [37]
         0 LocalizedString data
          1 string StringID = "PlateLove Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "По виду, поверхность сделана из гладкого, полированного мрамора или гранита, однако внутри находится что-то влажное и мягкое."
        [38]
         0 LocalizedString data
          1 string StringID = "PlateSacrifice Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "По виду, поверхность сделана из гладкого, полированного мрамора или гранита, однако внутри находится что-то влажное и мягкое."
        [39]
         0 LocalizedString data
          1 string StringID = "PlateKnowledge Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "По виду, поверхность сделана из гладкого, полированного мрамора или гранита, однако внутри находится что-то влажное и мягкое."
        [40]
         0 LocalizedString data
          1 string StringID = "PlateEternity Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "По виду, поверхность сделана из гладкого, полированного мрамора или гранита, однако внутри находится что-то влажное и мягкое."
        [41]
         0 LocalizedString data
          1 string StringID = "PlateFlesh Inspect"
-         1 string Localized = "The surface appears to be made of smooth, polished black marble or granite, but there is something soft and wet inside."
+         1 string Localized = "По виду, поверхность сделана из гладкого, полированного мрамора или гранита, однако внутри находится что-то влажное и мягкое."
        [42]
         0 LocalizedString data
          1 string StringID = "RingSerpent Inspect"
