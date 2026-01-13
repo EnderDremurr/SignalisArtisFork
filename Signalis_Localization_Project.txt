@@ -263,103 +263,103 @@
        [64]
         0 LocalizedString data
          1 string StringID = "KeyOfSacrifice Inspect"
-         1 string Localized = "A mix of hail, fire and blood hit my wet face, and a third of all creatures that lived in the sea died."
+         1 string Localized = "Смесь града, огня и крови ударила по моему мокрому лицу, и треть всех существ, живших в море, погибла."
        [65]
         0 LocalizedString data
          1 string StringID = "ROT_Moonring_Net_Obs1"
-         1 string Localized = "Some metal debris is caught in the lightwell's netting."
+         1 string Localized = "Некоторые металлические обломки застряли в сетке светового колодца."
        [66]
         0 LocalizedString data
          1 string StringID = "ROT_Moonring_Net_Obs2"
-         1 string Localized = "The netting is too weak to support my weight."
+         1 string Localized = "Сетка слишком слаба, чтобы выдержать мой вес."
        [67]
         0 LocalizedString data
          1 string StringID = "RES_Isa_1"
-         1 string Localized = "[Adler] I'm afraid the Commander won't receive any visitors at the moment."
+         1 string Localized = "[Адлер] Боюсь, в данный момент Командир не принимает гостей."
        [68]
         0 LocalizedString data
          1 string StringID = "RES_Isa_2"
-         1 string Localized = "[Adler] But perhaps I can be of assistance instead.\n[Isa] ...who're you?\n[Adler] I'm the administrator of this facility.\n[Adler] Please, there's no need to be afraid.\n[Adler] I'm just here to help."
+         1 string Localized = "[Адлер] Но, возможно, вместо него я смогу вам помочь.\n[Иса] ...кто ты?\n[Адлер] Я администратор этого комплекса.\n[Адлер] Пожалуйста, не стоит так бояться.\n[Адлер] Я здесь лишь затем, чтобы помочь."
        [69]
         0 LocalizedString data
          1 string StringID = "RES_Isa_3"
-         1 string Localized = "[Adler] You said you were looking for your sister?\n[Isa] I didn't say anything.\n[Adler] Last time you did..."
+         1 string Localized = "[Адлер] Вы сказали, что искали свою сестру?\n[Иса] Я ничего не говорила.\n[Адлер] В прошлый раз вы сказали именно это..."
        [70]
         0 LocalizedString data
          1 string StringID = "LOV_NewSpeak"
-         1 string Localized = "<title>Memorandum: Terminology</title>\nI announce the following, by order of AEON:\nDue to recent events, in accordance with the new AEON Public Interest Media Regulation AGM-87, the term <mspace=1.7em>█████████</mspace>, which is currently in use in various AEON facilities, is no longer permissible and must no longer be used.\nPremises and departments that are currently using the term are to be IMMEDIATELY renamed.\n<page>Management personnel shall black out the term from all signage and documents until replacement terminology is announced by AEON.\nWith immediate effect, usage of the term in conversation and correspondence is an Offense (Obscenity to the State) to be punished with 2 cycles of double work shift.\n<page>It may not be easy, but we all have to do our part here. Always remember:\n"Our language shapes our world; a perfect world requires a perfect language."\n-Adler"
+         1 string Localized = "<title>Меморандум: Терминология</title>\nНастоящим объявляю следующее, по приказу AEON:\nВ связи с недавними событиями, в соответствии с новым Регламентом AEON о средствах массовой информации и общественных интересах AGM-87, термин <mspace=1.7em>█████████</mspace>, который в настоящее время используется на различных объектах AEON, более не допускается и не должен использоваться впредь.\nПомещения и подразделения, в которых данный термин используется в настоящий момент, подлежат НЕМЕДЛЕННОМУ переименованию.\n<page>Руководящему персоналу предписывается закрасить данный термин на всех вывесках и в документах до тех пор, пока AEON не объявит заменяющую терминологию.\nС немедленным вступлением в силу, использование данного термина в устной речи и переписке считается Правонарушением (Непристойность по отношению к Государству) и наказывается двумя циклами двойной рабочей смены.\n<page>Это может быть непросто, но каждый из нас обязан внести свой вклад. Всегда помните:\n"Наш язык формирует наш мир; совершенный мир требует совершенного языка."\n-Адлер"
        [71]
         0 LocalizedString data
          1 string StringID = "LOV_Poster_Propaganda"
-         1 string Localized = "<title>Together</title>\n\n\n<align=center>Together to victory over the Empire!"
+         1 string Localized = "<title>Вместе</title>\n\n\n<align=center>Вместе мы одержим победу над Империей!"
        [72]
         0 LocalizedString data
          1 string StringID = "MEM_Doodle_K"
-         1 string Localized = "<title>Doodle</title>\n\n\n<align=center>Caulibri"
+         1 string Localized = "<title>Набросок</title>\n\n\n<align=center>Капубри"
        [73]
         0 LocalizedString data
          1 string StringID = "ROT_Poster_Prop_Falke"
-         1 string Localized = "<title>Wunderwaffen</title>\n\n<align=center>Superweapons of our Nation\nin the battle against the Empire: Falke Units"
+         1 string Localized = "<title>Вундерваффен</title>\n\n<align=center>Супероружие нашей Нации\nв войне против Империи: Фалке Юниты"
        [74]
         0 LocalizedString data
          1 string StringID = "ROT_Poster_Prop_Guns"
-         1 string Localized = "<title>Reunification</title>\n\n<align=right>Reunification at any cost!\nOrbital Defense Cannon Battery Vineta-12:\nBuyan and Kitezh in our crosshairs.\n- Artillery Divisions of the People's Army"
+         1 string Localized = "<title>Воссоединение</title>\n\n<align=right>Воссоединение любой ценой!\Орбитальная Оборонительная Артиллерийская Батарея Винета-12:\nБуян и Китеж на нашем прицеле.\n- Артиллерийские Дивизии Народной Армии."
        [75]
         0 LocalizedString data
          1 string StringID = "MEM_Poster_Penrose_Ship"
-         1 string Localized = "<title>Operation Penrose</title>\n\nPride of the Eusan Nation:\nSpace Vessel Type "Penrose"\n- People's Navy"
+         1 string Localized = "<title>Операция "Пенроуз"</title>\n\nГордость нашей Нации:\nКосмический Корабль "Пенроуз"\n- Народный ВКС."
        [76]
         0 LocalizedString data
          1 string StringID = "MEM_Obs_Window_1"
-         1 string Localized = "The stern observation window.\nNothing to see but stars."
+         1 string Localized = "Кормовое смотровое окно.\nНе видно ничего кроме звёзд."
        [77]
         0 LocalizedString data
          1 string StringID = "MEM_Obs_Cargo"
-         1 string Localized = ""Cargo hold unpressurized - Do not enter during flight""
+         1 string Localized = ""Грузовой отсек разгерметизирован - Не входить во время полёта.""
        [78]
         0 LocalizedString data
          1 string StringID = "MEM_Obs_Repair"
-         1 string Localized = "The lower deck heating system has been acting up a bit lately.\nI don't need to fix this right now."
+         1 string Localized = "В последнее время система отопления нижней палубы работает с перебоями.\nМне не нужно чинить это прямо сейчас."
        [79]
         0 LocalizedString data
          1 string StringID = "MEM_LowerDeck Service Hall A"
-         1 string Localized = "Cargo Access"
+         1 string Localized = "Грузовой отсек"
        [80]
         0 LocalizedString data
          1 string StringID = "MEM_LowerDeck Service Hall B"
-         1 string Localized = "Cargo Access"
+         1 string Localized = "Грузовой отсек"
        [81]
         0 LocalizedString data
          1 string StringID = "MEM_LowerDeck Observation"
-         1 string Localized = "Stern Observatory"
+         1 string Localized = "Кормовая обсерватория"
        [82]
         0 LocalizedString data
          1 string StringID = "MEM_Sketchbook"
-         1 string Localized = "<title>Sketchbook</title>"
+         1 string Localized = "<title>Скетчбук</title>"
        [83]
         0 LocalizedString data
          1 string StringID = "REP_Arar"
-         1 string Localized = "<title>ARAR</title>\n\n\n<align=center>All-Purpose Repair Worker Replika 'Ara'"
+         1 string Localized = "<title>ARAR</title>\n\n\n<align=center>Универсальный ремонтник - Реплика "Ара""
        [84]
         0 LocalizedString data
          1 string StringID = "REP_Eulr"
-         1 string Localized = "<title>EULR</title>\n\n\n<align=center>Simple Universal Light Replika 'Eule'"
+         1 string Localized = "<title>EULR</title>\n\n\n<align=center>Простая Универсальная Лёгкая - Реплика "Ойле""
        [85]
         0 LocalizedString data
          1 string StringID = "REP_Star"
-         1 string Localized = "<title>STAR</title>\n\n\n<align=center>Security Technician Guard Replika 'Star'"
+         1 string Localized = "<title>STAR</title>\n\n\n<align=center>Охранник-техник - Реплика "Стар""
        [86]
         0 LocalizedString data
          1 string StringID = "REP_Stcr"
-         1 string Localized = "<title>STCR</title>\n\n\n<align=center>Security Technician Controller Replika 'Storch'"
+         1 string Localized = "<title>STCR</title>\n\n\n<align=center>Контролёр-техник по безопасности - Реплика "Сторч""
        [87]
         0 LocalizedString data
          1 string StringID = "REP_Mnhr"
-         1 string Localized = "<title>MNHR</title>\n\n\n<align=center>Mining, Nuclear Tech, High-Security Replika 'Mynah'"
+         1 string Localized = "<title>MNHR</title>\n\n\n<align=center>Горнодобывающий, ядерный, высокобезопасный - Реплика "Майна""
        [88]
         0 LocalizedString data
          1 string StringID = "REP_Hunter"
-         1 string Localized = "<title>STAR S-2313</title>\n\n\n<align=center>Security Technician Guard Replika 'Star'\n S-2313 Hunter"
+         1 string Localized = "<title>STAR S-2313</title>\n\n\n<align=center>Охранник-техник - Реплика "Стар"\n S-2313 Охотник"
        [89]
         0 LocalizedString data
          1 string StringID = "REP_Scoreboard"
@@ -367,51 +367,51 @@
        [90]
         0 LocalizedString data
          1 string StringID = "ControllerDisconnected"
-         1 string Localized = "A controller has been disconnected."
+         1 string Localized = "Контроллер был отключен."
        [91]
         0 LocalizedString data
          1 string StringID = "ControllerConnected"
-         1 string Localized = "A controller was connected."
+         1 string Localized = "Контроллер был подключен."
        [92]
         0 LocalizedString data
          1 string StringID = "ControllerDisconnectedPS"
-         1 string Localized = "A Wireless Controller has been disconnected."
+         1 string Localized = "Беспроводной Контроллер был отключен."
        [93]
         0 LocalizedString data
          1 string StringID = "ControllerConnectedPS"
-         1 string Localized = "A Wireless Controller was connected."
+         1 string Localized = "Беспроводной Контроллер был подключен."
        [94]
         0 LocalizedString data
          1 string StringID = "ControllerDisconnectedNS"
-         1 string Localized = "A controller has been disconnected."
+         1 string Localized = "Контроллер был отключен."
        [95]
         0 LocalizedString data
          1 string StringID = "ControllerConnectedNS"
-         1 string Localized = "A controller was connected."
+         1 string Localized = "Контроллер был подключен."
        [96]
         0 LocalizedString data
          1 string StringID = "ControllerDisconnectedXB"
-         1 string Localized = "A controller has been disconnected."
+         1 string Localized = "Контроллер был отключен."
        [97]
         0 LocalizedString data
          1 string StringID = "ControllerConnectedXB"
-         1 string Localized = "A controller was connected."
+         1 string Localized = "Контроллер был подключен."
        [98]
         0 LocalizedString data
          1 string StringID = "OptionsHint COst"
-         1 string Localized = ""East style" button layout."
+         1 string Localized = ""East style" расположение кнопок."
        [99]
         0 LocalizedString data
          1 string StringID = "OptionsHint COst PS"
-         1 string Localized = ""East style" button layout."
+         1 string Localized = ""East style" расположение кнопок."
        [100]
         0 LocalizedString data
          1 string StringID = "OptionsHint COst XB"
-         1 string Localized = ""East style" button layout."
+         1 string Localized = ""East style" расположение кнопок."
        [101]
         0 LocalizedString data
          1 string StringID = "OptionsHint COst NS"
-         1 string Localized = ""East style" button layout."
+         1 string Localized = ""East style" расположение кнопок."
        [102]
         0 LocalizedString data
          1 string StringID = "Options COst"
@@ -427,335 +427,335 @@
        [105]
         0 LocalizedString data
          1 string StringID = "Help Confirm"
-         1 string Localized = "Confirm"
+         1 string Localized = "Подтвердить"
        [106]
         0 LocalizedString data
          1 string StringID = "Help Cancel"
-         1 string Localized = "Cancel"
+         1 string Localized = "Отменить"
        [107]
         0 LocalizedString data
          1 string StringID = "Options AutoTaser"
-         1 string Localized = "Quick EIG"
+         1 string Localized = "Авто ЭИД"
        [108]
         0 LocalizedString data
          1 string StringID = "END_Promise_Again"
-         1 string Localized = "Once again,"
+         1 string Localized = "Ещё раз,"
        [109]
         0 LocalizedString data
          1 string StringID = "MAN_0"
-         1 string Localized = "INSTRUCTION MANUAL"
+         1 string Localized = "ИНСТРУКЦИЯ"
        [110]
         0 LocalizedString data
          1 string StringID = "MAN_1a"
-         1 string Localized = "<style=red>Interact</style>\nImportant objects and items are highlighted with a white box when in range.\n\n<style=red>Run</style>\nRunning will make Elster more noticeable to enemies."
+         1 string Localized = "<style=red>Взаимодействие</style>\nВажные объекты и предметы подсвечиваются белой рамкой, когда находятся в зоне досягаемости.\n\n<style=red>Бег</style>\nБег делает Элстер более заметной для врагов."
        [111]
         0 LocalizedString data
          1 string StringID = "MAN_1b"
-         1 string Localized = "<style=red>Use Tool</style>\nIn addition to a weapon, Elster can equip a Tool to use on the move.\n\n<style=red>Ready Weapon</style>\nTo aim a weapon, press and hold {2}. Movement is slower while aiming a weapon."
+         1 string Localized = "<style=red>Использование инструмента</style>\nПомимо оружия, Элстер может экипировать предмет в слот для инструмента и использовать его на ходу.\n\n<style=red>Подготовка Оружия</style>\nЧтобы прицелиться, удерживайте {2}. Прицеливание замедляет движение."
        [112]
         0 LocalizedString data
          1 string StringID = "MAN_2"
-         1 string Localized = "<style=red>Aiming</style>\nWhen aiming at an enemy, a targeting box will appear around it.\nWhen there is a clear line of sight, the box will slowly shrink as the shot gets more precise.\nA cross will appear inside the box when there is no line of sight.\n\n<style=red>Finishing Enemies</style>\nWhen an enemy is critically wounded, they will fall to the ground.\nBefore they can get back up, run up to the enemy and finish it off by pressing {0} to save ammo. Look out: even finished enemies may recover if Elster loiters too long in one area."
+         1 string Localized = "<style=red>Прицеливание</style>\nПри наведении на врага вокруг него появится рамка.\nКогда прицеливанию ничего не мешает, рамка постепенно сузится, что улучшит точность выстрела.\nЕсли линии прицеливания что-то мешает, внутри рамки появится крестик.\n\n<style=red>Добивание врагов</style>\nКогда враг получает критическое ранение, он падает.\nПрежде чем он сможет подняться, вы можете подбежать и добить его, нажимая {0} чтобы сэкономить патроны. Внимание: даже добитые враги могут подняться, если Элстер задержится в одном месте надолго."
        [113]
         0 LocalizedString data
          1 string StringID = "MAN_3"
-         1 string Localized = "<style=red>Health</style>\nWhen a near-fatal injury is sustained, a warning will briefly pop up on the screen.\nElster's current health state can be viewed in the Inventory Screen. \n\n<style=red>Healing Items</style>\nAfter using them, some items can regenerate Elster’s health slowly over time when outside the inventory.\n\n<style=red>Saving</style>\nThere is no auto-save or checkpoint system in SIGNALIS!\nWhen Elster dies, all progress since your last manual save is lost.\nBe mindful of your health and resources to survive."
+         1 string Localized = "<style=red>Здоровье</style>\nПри почти смертельном ранении на экране кратко появляется предупреждение.\nСостояние здоровья Элстер можно посмотреть открыв инвентарь. \n\n<style=red>Лечебные предметы</style>\nПосле использования некоторые предметы постепенно восстанавливают здоровье Элстер вне инвентаря.\n\n<style=red>Сохранение</style>\nВ SIGNALIS нет автосохранений или контрольных точек!\nПри смерти Элстер теряется весь прогресс с момента последнего ручного сохранения.\nСледите за здоровьем и ресурсами, чтобы выжить."
        [114]
         0 LocalizedString data
          1 string StringID = "MAN_4"
-         1 string Localized = "<style=red>Inventory Screen</style>\nPress {3} to open the inventory screen at any time during gameplay.\nOn this screen you can see Elster's current health and held items.\nIn SIGNALIS, inventory space is a precious resource.\nElster can only carry 6 item stacks at a time.\nAlways make sure you have enough space to pick up important items.\n\n<style=red>Storage Box</style>\nTo free up inventory space, Elster can store items in the storage box found in each save room.\nItems stored in the storage box can be retrieved in every save room."
+         1 string Localized = "<style=red>Инвентарь</style>\nНажмите {3}, чтобы открыть инвентарь в любое время.\nЗдесь можно увидеть текущее здоровье и предметы Элстер.\nВ SIGNALIS место в инвентаре - ценный ресурс.\nЭлстер может носить только 6 предметов одновременно.\nСледите, чтобы у вас всегда было место для важных предметов.\n\n<style=red>Ящик для хранения</style>\nЧтобы освободить место, Элстер может положить любые предметы в ящик хранения в каждой комнате для сохранения.\nПредметы из ящика можно забрать в любой комнате для сохранения."
        [115]
         0 LocalizedString data
          1 string StringID = "MAN_5"
-         1 string Localized = "<style=red>Map and Modules</style>\nFrom the Inventory Screen, you can access the Map Screen, which keeps track of previously visited rooms, and the Modules Screen.\n<style=red>Modules Screen</style>\nOn this screen you can access the Radio Module controls, review previously read documents in the Memory Module, and view Elster's current health status in the Diagnostics Module."
+         1 string Localized = "<style=red>Карта и модули</style>\nС экрана инвентаря можно открыть карту, которая отслеживает посещённые комнаты, и экран модулей.\n<style=red>Экран модулей</style>\nНа этом экране доступны: управление радиомодулем, просмотр ранее прочитанных документов в модуле памяти, просмотр состояния здоровья Элстер в диагностическом модуле."
        [116]
         0 LocalizedString data
          1 string StringID = "END_Circle_T1"
-         1 string Localized = "I am myself again,"
+         1 string Localized = "Я - снова я,"
        [117]
         0 LocalizedString data
          1 string StringID = "END_Circle_T2"
-         1 string Localized = "but you are no longer yourself."
+         1 string Localized = "но ты - больше не ты."
        [118]
         0 LocalizedString data
          1 string StringID = "Results"
-         1 string Localized = "Results"
+         1 string Localized = "Итоги"
        [119]
         0 LocalizedString data
          1 string StringID = "LanguageCode"
-         1 string Localized = "en-US"
+         1 string Localized = "ru-RU"
        [120]
         0 LocalizedString data
          1 string StringID = "LanguageIdentifier"
-         1 string Localized = "English"
+         1 string Localized = "Russian"
        [121]
         0 LocalizedString data
          1 string StringID = "LanguageName"
-         1 string Localized = "US English"
+         1 string Localized = "Русский"
        [122]
         0 LocalizedString data
          1 string StringID = "PlaceholderText"
-         1 string Localized = "Not found."
+         1 string Localized = "Не найдено."
        [123]
         0 LocalizedString data
          1 string StringID = "CombineInvalid"
-         1 string Localized = "I can't combine these."
+         1 string Localized = "Я не могу ничего с этим сделать."
        [124]
         0 LocalizedString data
          1 string StringID = "CombineNoSpace"
-         1 string Localized = "No space to combine."
+         1 string Localized = "Нет места для создания."
        [125]
         0 LocalizedString data
          1 string StringID = "CombinedSuccessful"
-         1 string Localized = "Created {0}."
+         1 string Localized = "Создано {0}."
        [126]
         0 LocalizedString data
          1 string StringID = "Combine"
-         1 string Localized = "Combine {0} with…"
+         1 string Localized = "Совместить {0} с…"
        [127]
         0 LocalizedString data
          1 string StringID = "ReloadWrongAmmo"
-         1 string Localized = "Incorrect ammo type."
+         1 string Localized = "Неправильный тип боеприпасов."
        [128]
         0 LocalizedString data
          1 string StringID = "ReloadNeedAmmo"
-         1 string Localized = "I need {0} to reload it."
+         1 string Localized = "Мне нужно {0} чтобы перезарядиться."
        [129]
         0 LocalizedString data
          1 string StringID = "ReloadSuccessful"
-         1 string Localized = "{0} reloaded."
+         1 string Localized = "{0} перезаряжено."
        [130]
         0 LocalizedString data
          1 string StringID = "ReloadFull"
-         1 string Localized = "It's already loaded."
+         1 string Localized = "Уже заряжено."
        [131]
         0 LocalizedString data
          1 string StringID = "UsedSuccessful"
-         1 string Localized = "Used {0}."
+         1 string Localized = "Использован {0}."
        [132]
         0 LocalizedString data
          1 string StringID = "UsedNoUseHere"
-         1 string Localized = "I can't use this here."
+         1 string Localized = "Я не могу использовать это здесь."
        [133]
         0 LocalizedString data
          1 string StringID = "UsedNoUse"
-         1 string Localized = "I don't need to use this right now."
+         1 string Localized = "Сейчас мне это не нужно."
        [134]
         0 LocalizedString data
          1 string StringID = "DestroyItem"
-         1 string Localized = "Confirm to destroy this item stack to clear inventory slot.\n<style=red>Warning: This cannot be undone.</style>"
+         1 string Localized = "Чтобы уничтожить стак предмета и освободить слот, подтвердите.\n<style=red>Внимание: действие не может быть отменено.</style>"
        [135]
         0 LocalizedString data
          1 string StringID = "CMDUSE"
-         1 string Localized = "USE"
+         1 string Localized = "ИСПОЛЬЗОВАТЬ"
        [136]
         0 LocalizedString data
          1 string StringID = "CMDCOMBINE"
-         1 string Localized = "COMBINE"
+         1 string Localized = "ОБЪЕДИНИТЬ"
        [137]
         0 LocalizedString data
          1 string StringID = "CMDINSPECT"
-         1 string Localized = "INSPECT"
+         1 string Localized = "ОСМОТРЕТЬ"
        [138]
         0 LocalizedString data
          1 string StringID = "CMDEQUIP"
-         1 string Localized = "EQUIP"
+         1 string Localized = "ЭКИПИРОВАТЬ"
        [139]
         0 LocalizedString data
          1 string StringID = "CMDUNEQUIP"
-         1 string Localized = "UNEQUIP"
+         1 string Localized = "СНЯТЬ"
        [140]
         0 LocalizedString data
          1 string StringID = "CMDRELOAD"
-         1 string Localized = "RELOAD"
+         1 string Localized = "ПЕРЕЗАРЯДИТЬСЯ"
        [141]
         0 LocalizedString data
          1 string StringID = "CMDDESTROY"
-         1 string Localized = "DESTROY"
+         1 string Localized = "УНИЧТОЖИТЬ"
        [142]
         0 LocalizedString data
          1 string StringID = "BoxStore"
-         1 string Localized = "Store"
+         1 string Localized = "Сложить"
        [143]
         0 LocalizedString data
          1 string StringID = "BoxRetrieve"
-         1 string Localized = "Retrieve"
+         1 string Localized = "Взять"
        [144]
         0 LocalizedString data
          1 string StringID = "BoxOvercapacity"
-         1 string Localized = "Over capacity"
+         1 string Localized = "Нет места"
        [145]
         0 LocalizedString data
          1 string StringID = "BoxAmount"
-         1 string Localized = "Amount"
+         1 string Localized = "Кол-во"
        [146]
         0 LocalizedString data
          1 string StringID = "EquippedWeaponTitle"
-         1 string Localized = "Weapon"
+         1 string Localized = "Оружие"
        [147]
         0 LocalizedString data
          1 string StringID = "StatusTitle"
-         1 string Localized = "Status"
+         1 string Localized = "Статус"
        [148]
         0 LocalizedString data
          1 string StringID = "MemoryTitle"
-         1 string Localized = "Memory"
+         1 string Localized = "Память"
        [149]
         0 LocalizedString data
          1 string StringID = "FrameTitle"
-         1 string Localized = "Frame"
+         1 string Localized = "Рамка"
        [150]
         0 LocalizedString data
          1 string StringID = "PersonaTitle"
-         1 string Localized = "Persona"
+         1 string Localized = "Персона"
        [151]
         0 LocalizedString data
          1 string StringID = "DiagnosticTitle"
-         1 string Localized = "Diagnostics"
+         1 string Localized = "Диагностика"
        [152]
         0 LocalizedString data
          1 string StringID = "FrameDamage"
-         1 string Localized = "Functional"
+         1 string Localized = "Функциональность"
        [153]
         0 LocalizedString data
          1 string StringID = "FrameFiller"
-         1 string Localized = "Filler Material"
+         1 string Localized = "Наполнитель"
        [154]
         0 LocalizedString data
          1 string StringID = "Hyper"
-         1 string Localized = "Hypersensitive"
+         1 string Localized = "Гиперчувствительный"
        [155]
         0 LocalizedString data
          1 string StringID = "Kata"
-         1 string Localized = "Catatonic"
+         1 string Localized = "Кататония"
        [156]
         0 LocalizedString data
          1 string StringID = "Clusters"
-         1 string Localized = "Overclustered"
+         1 string Localized = "Перегруженный"
        [157]
         0 LocalizedString data
          1 string StringID = "Fragment"
-         1 string Localized = "Fragmented"
+         1 string Localized = "Фрагментированный"
        [158]
         0 LocalizedString data
          1 string StringID = "TransmitterTitle"
-         1 string Localized = "Receiver"
+         1 string Localized = "Получатель"
        [159]
         0 LocalizedString data
          1 string StringID = "MapTitle"
-         1 string Localized = "Area Map"
+         1 string Localized = "Карта"
        [160]
         0 LocalizedString data
          1 string StringID = "Empty Slot"
-         1 string Localized = "Empty Slot"
+         1 string Localized = "Пустой слот"
        [161]
         0 LocalizedString data
          1 string StringID = "FlashlightToggleOn"
-         1 string Localized = "Turned on the flashlight."
+         1 string Localized = "Фонарь включен."
        [162]
         0 LocalizedString data
          1 string StringID = "FlashlightToggleOff"
-         1 string Localized = "Turned off the flashlight."
+         1 string Localized = "Фонарь выключен."
        [163]
         0 LocalizedString data
          1 string StringID = "HealthBlue"
-         1 string Localized = "Nominal"
+         1 string Localized = "Здоров"
        [164]
         0 LocalizedString data
          1 string StringID = "HealthYellow"
-         1 string Localized = "Caution"
+         1 string Localized = "Слегка ранен"
        [165]
         0 LocalizedString data
          1 string StringID = "HealthOrange"
-         1 string Localized = "Warning"
+         1 string Localized = "Ранен"
        [166]
         0 LocalizedString data
          1 string StringID = "HealthRed"
-         1 string Localized = "Danger"
+         1 string Localized = "Тяжело ранен"
        [167]
         0 LocalizedString data
          1 string StringID = "HealthDark"
-         1 string Localized = "Critical"
+         1 string Localized = "Критически ранен"
        [168]
         0 LocalizedString data
          1 string StringID = "Inv Map"
-         1 string Localized = "Map"
+         1 string Localized = "Карта"
        [169]
         0 LocalizedString data
          1 string StringID = "Inv Diag"
-         1 string Localized = "Diagnostics"
+         1 string Localized = "Диагностика"
        [170]
         0 LocalizedString data
          1 string StringID = "Inv Item"
-         1 string Localized = "Select Item"
+         1 string Localized = "Выбрать предмет"
        [171]
         0 LocalizedString data
          1 string StringID = "Inv CMD"
-         1 string Localized = "Action Menu"
+         1 string Localized = "Меню выбора"
        [172]
         0 LocalizedString data
          1 string StringID = "Inv Inv"
-         1 string Localized = "Inventory"
+         1 string Localized = "Инвентарь"
        [173]
         0 LocalizedString data
          1 string StringID = "Inv Floor"
-         1 string Localized = "Change Floor"
+         1 string Localized = "Сменить этаж"
        [174]
         0 LocalizedString data
          1 string StringID = "Inv MapScroll"
-         1 string Localized = "Toggle Map Scrolling"
+         1 string Localized = "Переключить прокрутку карты"
        [175]
         0 LocalizedString data
          1 string StringID = "Inv Storage"
-         1 string Localized = "Storage"
+         1 string Localized = "Хранилище"
        [176]
         0 LocalizedString data
          1 string StringID = "Inv Store"
-         1 string Localized = "Transfer Selected"
+         1 string Localized = "Перенести выбранное"
        [177]
         0 LocalizedString data
          1 string StringID = "Inv Module"
-         1 string Localized = "Module"
+         1 string Localized = "Модуль"
        [178]
         0 LocalizedString data
          1 string StringID = "Inv Radio"
-         1 string Localized = "Toggle Radio"
+         1 string Localized = "Вкл. радио"
        [179]
         0 LocalizedString data
          1 string StringID = "Inv Tune"
-         1 string Localized = "Adjust Frequency"
+         1 string Localized = "Настроить частоту"
        [180]
         0 LocalizedString data
          1 string StringID = "Inv Memory"
-         1 string Localized = "Select Memory"
+         1 string Localized = "Выбор Памяти"
        [181]
         0 LocalizedString data
          1 string StringID = "Inv MemoryView"
-         1 string Localized = "View Memory"
+         1 string Localized = "Просмотреть Память"
        [182]
         0 LocalizedString data
          1 string StringID = "MainMenu Play"
-         1 string Localized = "Begin"
+         1 string Localized = "Начать"
        [183]
         0 LocalizedString data
          1 string StringID = "MainMenu Continue"
-         1 string Localized = "Continue"
+         1 string Localized = "Продолжить"
        [184]
         0 LocalizedString data
          1 string StringID = "MainMenu Settings"
-         1 string Localized = "Settings"
+         1 string Localized = "Настройки"
        [185]
         0 LocalizedString data
          1 string StringID = "MainMenu Credits"
-         1 string Localized = "Credits"
+         1 string Localized = "Титры"
        [186]
         0 LocalizedString data
          1 string StringID = "MainMenu Quit"
-         1 string Localized = "Quit"
+         1 string Localized = "Выйти"
        [187]
         0 LocalizedString data
          1 string StringID = "MainMenu Manual"
-         1 string Localized = "Manual"
+         1 string Localized = "Руководство"
        [188]
         0 LocalizedString data
          1 string StringID = "MainMenuCJKPlay"
@@ -783,91 +783,91 @@
        [194]
         0 LocalizedString data
          1 string StringID = "PauseMenuManual"
-         1 string Localized = "Manual"
+         1 string Localized = "Руководство"
        [195]
         0 LocalizedString data
          1 string StringID = "Options Settings"
-         1 string Localized = "Settings"
+         1 string Localized = "Настройки"
        [196]
         0 LocalizedString data
          1 string StringID = "OptionsTab Gameplay"
-         1 string Localized = "Gameplay"
+         1 string Localized = "Игровой процесс"
        [197]
         0 LocalizedString data
          1 string StringID = "OptionsTab Display"
-         1 string Localized = "Display"
+         1 string Localized = "Экран"
        [198]
         0 LocalizedString data
          1 string StringID = "OptionsTab Graphics"
-         1 string Localized = "Graphics"
+         1 string Localized = "Графика"
        [199]
         0 LocalizedString data
          1 string StringID = "OptionsTab Audio"
-         1 string Localized = "Audio"
+         1 string Localized = "Аудио"
        [200]
         0 LocalizedString data
          1 string StringID = "OptionsTab Controls"
-         1 string Localized = "Controls"
+         1 string Localized = "Управление"
        [201]
         0 LocalizedString data
          1 string StringID = "OptionsTab Keybinds"
-         1 string Localized = "Keybinds"
+         1 string Localized = "Назначение Клавиш"
        [202]
         0 LocalizedString data
          1 string StringID = "Gameplay Cursor"
-         1 string Localized = "Mouse Aim Cursor"
+         1 string Localized = "Прицеливание Мышью"
        [203]
         0 LocalizedString data
          1 string StringID = "Gameplay Autoload"
-         1 string Localized = "Automatic Reloading"
+         1 string Localized = "Авто-Перезарядка"
        [204]
         0 LocalizedString data
          1 string StringID = "Options AutoTaserOld"
-         1 string Localized = "Quick EIG"
+         1 string Localized = "Быстрый ЭИД"
        [205]
         0 LocalizedString data
          1 string StringID = "Gameplay ClearAll"
-         1 string Localized = "Clear all Save Data"
+         1 string Localized = "Удалить все сохранения"
        [206]
         0 LocalizedString data
          1 string StringID = "Options Precursor"
-         1 string Localized = "Always"
+         1 string Localized = "Всегда"
        [207]
         0 LocalizedString data
          1 string StringID = "Options Aimcursor"
-         1 string Localized = "Aim Only"
+         1 string Localized = "Только прицеливание"
        [208]
         0 LocalizedString data
          1 string StringID = "OptionsHint MouseAimInter"
-         1 string Localized = "Set mouse cursor behavior."
+         1 string Localized = "Выбор поведения курсора мыши."
        [209]
         0 LocalizedString data
          1 string StringID = "OptionsHint Precursor"
-         1 string Localized = "Always show a mouse cursor."
+         1 string Localized = "Всегда показывать курсор."
        [210]
         0 LocalizedString data
          1 string StringID = "OptionsHint Aimcursor"
-         1 string Localized = "Show mouse cursor only when aiming."
+         1 string Localized = "Показывать курсор только при прицеливании."
        [211]
         0 LocalizedString data
          1 string StringID = "OptionsHint Nocursor"
-         1 string Localized = "Never show a mouse cursor."
+         1 string Localized = "Никогда не показывать курсор."
        [212]
         0 LocalizedString data
          1 string StringID = "Options Display"
-         1 string Localized = "Display"
+         1 string Localized = "Экран"
        [213]
         0 LocalizedString data
          1 string StringID = "Options Resolution"
-         1 string Localized = "Resolution"
+         1 string Localized = "Разрешение"
        [214]
         0 LocalizedString data
          1 string StringID = "Options Pixel Scale"
-         1 string Localized = "Pixel Scale"
+         1 string Localized = "Масштабирование пикселей"
        [215]
         0 LocalizedString data
          1 string StringID = "Options Fitting"
-         1 string Localized = "Fitting"
+         1 string Localized = "Масштабирование изображения"
        [216]
         0 LocalizedString data
          1 string StringID = "Options Fitting PP"
@@ -875,675 +875,675 @@
        [217]
         0 LocalizedString data
          1 string StringID = "Options Fitting LB"
-         1 string Localized = "Letterboxed"
+         1 string Localized = "В рамке"
        [218]
         0 LocalizedString data
          1 string StringID = "Options Fitting DT"
-         1 string Localized = "Distorted"
+         1 string Localized = "Растянутый"
        [219]
         0 LocalizedString data
          1 string StringID = "OptionsHint Fitting PP"
-         1 string Localized = "Recommended. Each pixel corresponds to a physical square of the same size on the screen."
+         1 string Localized = "Рекомендуется. Каждый пиксель соответствует квадрату того же размера на экране."
        [220]
         0 LocalizedString data
          1 string StringID = "OptionsHint Fitting LB"
-         1 string Localized = "The image is scaled to the screen size without distorting it. May result in lines of uneven thickness."
+         1 string Localized = "Изображение масштабируется под размер экрана без искажений. Могут появиться линии разной толщины."
        [221]
         0 LocalizedString data
          1 string StringID = "OptionsHint Fitting DT"
-         1 string Localized = "The image is scaled and distorted to fit the screen. May result in an uneven and distorted image."
+         1 string Localized = "Изображение масштабируется и искажается под экран. Возможны неровные и деформированные линии."
        [222]
         0 LocalizedString data
          1 string StringID = "Options Volumetrics"
-         1 string Localized = "Volumetric Effects"
+         1 string Localized = "Объёмные эффекты"
        [223]
         0 LocalizedString data
          1 string StringID = "Options Mirrors"
-         1 string Localized = "Reflections"
+         1 string Localized = "Отражения"
        [224]
         0 LocalizedString data
          1 string StringID = "Options Veil"
-         1 string Localized = "Enemy Effects"
+         1 string Localized = "Эффекты врагов"
        [225]
         0 LocalizedString data
          1 string StringID = "Options Lasers"
-         1 string Localized = "Complex Lasers"
+         1 string Localized = "Сложные лазеры"
        [226]
         0 LocalizedString data
          1 string StringID = "Options Grain"
-         1 string Localized = "Film Grain"
+         1 string Localized = "Зернистость"
        [227]
         0 LocalizedString data
          1 string StringID = "Options CRT"
-         1 string Localized = "CRT Mode"
+         1 string Localized = "Эмуляция ЭЛТ"
        [228]
         0 LocalizedString data
          1 string StringID = "Options Mode"
-         1 string Localized = "Screen Mode"
+         1 string Localized = "Режим Экрана"
        [229]
         0 LocalizedString data
          1 string StringID = "Options V-Sync"
-         1 string Localized = "V-Sync"
+         1 string Localized = "Верт. Синхр."
        [230]
         0 LocalizedString data
          1 string StringID = "Options Brightness"
-         1 string Localized = "Brightness"
+         1 string Localized = "Яркость"
        [231]
         0 LocalizedString data
          1 string StringID = "Options Vibes"
-         1 string Localized = "Vibration"
+         1 string Localized = "Вибрация"
        [232]
         0 LocalizedString data
          1 string StringID = "Options Shake"
-         1 string Localized = "Screen Shake"
+         1 string Localized = "Тряска экрана"
        [233]
         0 LocalizedString data
          1 string StringID = "Options Language"
-         1 string Localized = "Language"
+         1 string Localized = "Язык"
        [234]
         0 LocalizedString data
          1 string StringID = "Options MasterVol"
-         1 string Localized = "Master Volume"
+         1 string Localized = "Общая громкость"
        [235]
         0 LocalizedString data
          1 string StringID = "Options MusicVol"
-         1 string Localized = "Music Volume"
+         1 string Localized = "Громкость музыки"
        [236]
         0 LocalizedString data
          1 string StringID = "Options SFXVol"
-         1 string Localized = "SFX Volume"
+         1 string Localized = "Громкость SFX"
        [237]
         0 LocalizedString data
          1 string StringID = "Options RadioVol"
-         1 string Localized = "Radio Volume"
+         1 string Localized = "Громкость радио"
        [238]
         0 LocalizedString data
          1 string StringID = "Options ControlsStyle"
-         1 string Localized = "Controls Style"
+         1 string Localized = "Режим управления"
        [239]
         0 LocalizedString data
          1 string StringID = "Options ControlsStyle Camera"
-         1 string Localized = "Standard"
+         1 string Localized = "Обычный"
        [240]
         0 LocalizedString data
          1 string StringID = "Options ControlsStyle Tank"
-         1 string Localized = "Tank"
+         1 string Localized = "Танк"
        [241]
         0 LocalizedString data
          1 string StringID = "Options Babswap"
-         1 string Localized = "Swap Aim Controls"
+         1 string Localized = "Управление со сменой цели"
        [242]
         0 LocalizedString data
          1 string StringID = "Options RunStyle"
-         1 string Localized = "Sprint Style"
+         1 string Localized = "Режим бега"
        [243]
         0 LocalizedString data
          1 string StringID = "Options RunStyleHold"
-         1 string Localized = "Hold"
+         1 string Localized = "Удерживание"
        [244]
         0 LocalizedString data
          1 string StringID = "Options RunStyleToggle"
-         1 string Localized = "Toggle"
+         1 string Localized = "Переключение"
        [245]
         0 LocalizedString data
          1 string StringID = "Options RunStyleSticky"
-         1 string Localized = "Sticky"
+         1 string Localized = "Фиксация"
        [246]
         0 LocalizedString data
          1 string StringID = "Options AimStyle"
-         1 string Localized = "Aim Style"
+         1 string Localized = "Режим прицеливания"
        [247]
         0 LocalizedString data
          1 string StringID = "Options AimStyleHold"
-         1 string Localized = "Hold"
+         1 string Localized = "Удерживание"
        [248]
         0 LocalizedString data
          1 string StringID = "Options AimStyleToggle"
-         1 string Localized = "Toggle"
+         1 string Localized = "Переключение"
        [249]
         0 LocalizedString data
          1 string StringID = "Options AimStyleQuick"
-         1 string Localized = "Quick"
+         1 string Localized = "Быстрое"
        [250]
         0 LocalizedString data
          1 string StringID = "Options MouseAimSense"
-         1 string Localized = "Mouse Sensitivity"
+         1 string Localized = "Чувствительность мыши"
        [251]
         0 LocalizedString data
          1 string StringID = "Options QuickRadio"
-         1 string Localized = "Quick Radio"
+         1 string Localized = "Быстрое радио"
        [252]
         0 LocalizedString data
          1 string StringID = "Options KBLayout"
-         1 string Localized = "Keyboard Controls"
+         1 string Localized = "Управление клавиатурой"
        [253]
         0 LocalizedString data
          1 string StringID = "Options KBNormal"
-         1 string Localized = "Default"
+         1 string Localized = "Обычное"
        [254]
         0 LocalizedString data
          1 string StringID = "Options KBAlt"
-         1 string Localized = "Alternate"
+         1 string Localized = "Альтернативное"
        [255]
         0 LocalizedString data
          1 string StringID = "Options CLayout"
-         1 string Localized = "Controller Controls"
+         1 string Localized = "Управление контроллером"
        [256]
         0 LocalizedString data
          1 string StringID = "Options CLayout CONSOLE"
-         1 string Localized = "Controls"
+         1 string Localized = "Управление"
        [257]
         0 LocalizedString data
          1 string StringID = "Options CNormalOld"
-         1 string Localized = "Default"
+         1 string Localized = "Обычное"
        [258]
         0 LocalizedString data
          1 string StringID = "Options CAltOld"
-         1 string Localized = "Alternate"
+         1 string Localized = "Альтернативное"
        [259]
         0 LocalizedString data
          1 string StringID = "OptionsHint KBNormal"
-         1 string Localized = "Modern WASD-based. F to Interact."
+         1 string Localized = "Современный метод на базе WASD. Для взаимодействия используется "F"."
        [260]
         0 LocalizedString data
          1 string StringID = "OptionsHint KBAlt"
-         1 string Localized = "Classic WASD-based. E to Interact."
+         1 string Localized = "Классический метод на базе WASD. Для взаимодействия используется "E"."
        [261]
         0 LocalizedString data
          1 string StringID = "OptionsHint CNormal"
-         1 string Localized = ""Short thumb" button layout."
+         1 string Localized = "Раскладка клавиш "Короткий большой палец"."
        [262]
         0 LocalizedString data
          1 string StringID = "OptionsHint CNormal PS"
-         1 string Localized = ""Short thumb" button layout."
+         1 string Localized = "Раскладка клавиш "Короткий большой палец"."
        [263]
         0 LocalizedString data
          1 string StringID = "OptionsHint CNormal XB"
-         1 string Localized = ""Short thumb" button layout."
+         1 string Localized = "Раскладка клавиш "Короткий большой палец"."
        [264]
         0 LocalizedString data
          1 string StringID = "OptionsHint CNormal NS"
-         1 string Localized = ""Short thumb" button layout."
+         1 string Localized = "Раскладка клавиш "Короткий большой палец"."
        [265]
         0 LocalizedString data
          1 string StringID = "OptionsHint CAlt"
-         1 string Localized = ""Long thumb" button layout."
+         1 string Localized = "Раскладка кнопка "Короткий большой палец"."
        [266]
         0 LocalizedString data
          1 string StringID = "OptionsHint CAlt PS"
-         1 string Localized = ""Long thumb" button layout."
+         1 string Localized = "Раскладка кнопка "Короткий большой палец"."
        [267]
         0 LocalizedString data
          1 string StringID = "OptionsHint CAlt XB"
-         1 string Localized = ""Long thumb" button layout."
+         1 string Localized = "Раскладка кнопка "Короткий большой палец"."
        [268]
         0 LocalizedString data
          1 string StringID = "OptionsHint CAlt NS"
-         1 string Localized = ""Long thumb" button layout."
+         1 string Localized = "Раскладка кнопка "Короткий большой палец"."
        [269]
         0 LocalizedString data
          1 string StringID = "Options TextSpeed"
-         1 string Localized = "Text Speed"
+         1 string Localized = "Скорость текста"
        [270]
         0 LocalizedString data
          1 string StringID = "Options TextSpeed Slow"
-         1 string Localized = "Slow"
+         1 string Localized = "Медленно"
        [271]
         0 LocalizedString data
          1 string StringID = "Options TextSpeed Normal"
-         1 string Localized = "Normal"
+         1 string Localized = "Обычно"
        [272]
         0 LocalizedString data
          1 string StringID = "Options TextSpeed Fast"
-         1 string Localized = "Fast"
+         1 string Localized = "Быстро"
        [273]
         0 LocalizedString data
          1 string StringID = "Options TextSpeed Instant"
-         1 string Localized = "Instant"
+         1 string Localized = "Моментально"
        [274]
         0 LocalizedString data
          1 string StringID = "OptionsHint TextSpeedInter"
-         1 string Localized = "The speed at which text appears in dialogue boxes and cutscenes."
+         1 string Localized = "Скорость появления текста в диалоговых окнах и кат-сценах."
        [275]
         0 LocalizedString data
          1 string StringID = "Results Difficulty"
-         1 string Localized = "Difficulty"
+         1 string Localized = "Сложность"
        [276]
         0 LocalizedString data
          1 string StringID = "Options Difficulty"
-         1 string Localized = "Combat Accessibility"
+         1 string Localized = "Помощь в бою"
        [277]
         0 LocalizedString data
          1 string StringID = "OptionsHint DifficultyInter"
-         1 string Localized = "Adjust the difficulty of combat encounters."
+         1 string Localized = "Вы можете изменить сложность сражений с врагами."
        [278]
         0 LocalizedString data
          1 string StringID = "Options DEasy"
-         1 string Localized = "Casual"
+         1 string Localized = "Низкая"
        [279]
         0 LocalizedString data
          1 string StringID = "Options DNormal"
-         1 string Localized = "Normal"
+         1 string Localized = "Обычная"
        [280]
         0 LocalizedString data
          1 string StringID = "Options DHard"
-         1 string Localized = "Survival"
+         1 string Localized = "Выживание"
        [281]
         0 LocalizedString data
          1 string StringID = "OptionsHint DEasy"
-         1 string Localized = "For a casual experience. Enemies deal less damage and die faster."
+         1 string Localized = "Для более легкой игры. Враги наносят меньше урона и умирают быстрее."
        [282]
         0 LocalizedString data
          1 string StringID = "OptionsHint DNormal"
-         1 string Localized = "Normal difficulty. Recommended difficulty for first playthroughs. "
+         1 string Localized = "Обычная сложность. Рекомендуется для первого прохождения. "
        [283]
         0 LocalizedString data
          1 string StringID = "OptionsHint DHard"
-         1 string Localized = "For experienced survival horror fans. Enemies deal more damage and are harder to kill."
+         1 string Localized = "Для опытных игроков. Враги наносят намного больше урона и их сложнее убить."
        [284]
         0 LocalizedString data
          1 string StringID = "Options Fullscreen"
-         1 string Localized = "Fullscreen"
+         1 string Localized = "Полный экран"
        [285]
         0 LocalizedString data
          1 string StringID = "Options Windowed"
-         1 string Localized = "Windowed"
+         1 string Localized = "В окне"
        [286]
         0 LocalizedString data
          1 string StringID = "Options Borderless"
-         1 string Localized = "Borderless"
+         1 string Localized = "В окне без границ"
        [287]
         0 LocalizedString data
          1 string StringID = "OptionsFittingTester"
-         1 string Localized = "Pixel Reference Grid\nAll boxes should be square and filled with an even checkerboard."
+         1 string Localized = "Пиксельная сетка координат.\nВсе элементы должны быть квадратными и заполнены шахматной клеткой четной размерности."
        [288]
         0 LocalizedString data
          1 string StringID = "Options Defaults"
-         1 string Localized = "Defaults"
+         1 string Localized = "По умолчанию"
        [289]
         0 LocalizedString data
          1 string StringID = "Options Back"
-         1 string Localized = "Back"
+         1 string Localized = "Назад"
        [290]
         0 LocalizedString data
          1 string StringID = "Options Done"
-         1 string Localized = "Done"
+         1 string Localized = "Готово"
        [291]
         0 LocalizedString data
          1 string StringID = "Options Controls"
-         1 string Localized = "Controls"
+         1 string Localized = "Управление"
        [292]
         0 LocalizedString data
          1 string StringID = "Options ApplyWarning"
-         1 string Localized = "You have unapplied settings."
+         1 string Localized = "У вас есть несохраненные изменения."
        [293]
         0 LocalizedString data
          1 string StringID = "Options Apply"
-         1 string Localized = "Apply"
+         1 string Localized = "Применить"
        [294]
         0 LocalizedString data
          1 string StringID = "Options Bailout"
-         1 string Localized = "Keep these settings?"
+         1 string Localized = "Сохранить эти настройки?"
        [295]
         0 LocalizedString data
          1 string StringID = "Options BailoutAccept"
-         1 string Localized = "Yes"
+         1 string Localized = "Да"
        [296]
         0 LocalizedString data
          1 string StringID = "Options BailoutReject"
-         1 string Localized = "No"
+         1 string Localized = "Нет"
        [297]
         0 LocalizedString data
          1 string StringID = "OptionHoldToClear"
-         1 string Localized = "Hold to Clear"
+         1 string Localized = "Удерживайте, чтобы очистить"
        [298]
         0 LocalizedString data
          1 string StringID = "OptionClearing"
-         1 string Localized = "Clearing Data…"
+         1 string Localized = "Удаление данных…"
        [299]
         0 LocalizedString data
          1 string StringID = "OptionCleared"
-         1 string Localized = "Data Cleared."
+         1 string Localized = "Данные удалены."
        [300]
         0 LocalizedString data
          1 string StringID = "OptionsHint TabHeaderDummy"
-         1 string Localized = "Recommended settings are highlighted in <color=#00AEEA>blue</color>."
+         1 string Localized = "Рекомендованные настройки подсвечены <color=#00AEEA>синим</color>."
        [301]
         0 LocalizedString data
          1 string StringID = "OptionsHint ApplyCollider"
-         1 string Localized = "Apply unsaved settings."
+         1 string Localized = "Применить несохраненные изменения."
        [302]
         0 LocalizedString data
          1 string StringID = "OptionsHint DefaultsCollider"
-         1 string Localized = "Resets ALL settings to the recommended defaults."
+         1 string Localized = "Сбрасывает ВСЕ настройки до настроек по умолчанию."
        [303]
         0 LocalizedString data
          1 string StringID = "OptionsHint BackCollider"
-         1 string Localized = "Return to menu."
+         1 string Localized = "Вернуться в меню."
        [304]
         0 LocalizedString data
          1 string StringID = "OptionsHint BackCalibrate"
-         1 string Localized = "Complete calibration."
+         1 string Localized = "Выполнить калибровку."
        [305]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoLoadInter"
-         1 string Localized = "Automatically reload the current weapon when firing with an empty magazine."
+         1 string Localized = "Автоматически перезаряжает выбранное оружие при попытке выстрела с пустым магазином."
        [306]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoLoadOn"
-         1 string Localized = "Automatic loading might trigger a reload in a dangerous situation."
+         1 string Localized = "При включенной функции может перезарядить оружие в опасной ситуации."
        [307]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoLoadOff"
-         1 string Localized = "Retain full control over when to reload."
+         1 string Localized = "Полный контроль над перезарядкой."
        [308]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoTaserOn"
-         1 string Localized = "When no other tool is equipped, pressing the Tool Key near enemies will equip available Stun Prods."
+         1 string Localized = "Если другой инструмент не используется, при нажатии кнопки инструмента рядом с врагами автоматически экипируются доступные электрошокеры."
        [309]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoTaserOn PS"
-         1 string Localized = "When no other tool is equipped, pressing the Tool Button near enemies will equip available Stun Prods."
+         1 string Localized = "Если другой инструмент не используется, при нажатии кнопки инструмента рядом с врагами автоматически экипируются доступные электрошокеры.."
        [310]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoTaserOn XB"
-         1 string Localized = "When no other tool is equipped, pressing the Tool Button near enemies will equip available Stun Prods."
+         1 string Localized = "Если другой инструмент не используется, при нажатии кнопки инструмента рядом с врагами автоматически экипируются доступные электрошокеры.."
        [311]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoTaserOn NS"
-         1 string Localized = "When no other tool is equipped, pressing the Tool Button near enemies will equip available Stun Prods."
+         1 string Localized = "Если другой инструмент не используется, при нажатии кнопки инструмента рядом с врагами автоматически экипируются доступные электрошокеры.."
        [312]
         0 LocalizedString data
          1 string StringID = "OptionsHint AutoTaserOff"
-         1 string Localized = "Prevents accidental discharge of Stun Prods."
+         1 string Localized = "Предотвращает случайный разряд электрошокеров."
        [313]
         0 LocalizedString data
          1 string StringID = "OptionsHint TaserInter"
-         1 string Localized = "Automatically equips available Stun Prods when appropriate."
+         1 string Localized = "Автоматически экипирует доступные электрошокеры при необходимости."
        [314]
         0 LocalizedString data
          1 string StringID = "OptionsHint RumbleControllerInter"
-         1 string Localized = "The intensity of controller vibration (rumble) effects."
+         1 string Localized = "Интенсивность вибрации контроллера."
        [315]
         0 LocalizedString data
          1 string StringID = "OptionsHint RumbleControllerInter PS"
-         1 string Localized = "The intensity of vibration effects."
+         1 string Localized = "Интенсивность вибрации контроллера."
        [316]
         0 LocalizedString data
          1 string StringID = "OptionsHint RumbleControllerInter XB"
-         1 string Localized = "The intensity of vibration (rumble) effects."
+         1 string Localized = "Интенсивность вибрации контроллера."
        [317]
         0 LocalizedString data
          1 string StringID = "OptionsHint RumbleControllerInter NS"
-         1 string Localized = "The intensity of vibration (rumble) effects."
+         1 string Localized = "Интенсивность вибрации контроллера."
        [318]
         0 LocalizedString data
          1 string StringID = "OptionsHint ShakeControllerInter"
-         1 string Localized = "The intensity of screen shake effects."
+         1 string Localized = "Интенсивность эффекта тряски экрана."
        [319]
         0 LocalizedString data
          1 string StringID = "OptionsHint LanguageInter"
-         1 string Localized = "Great Holes secretly are digged where earth's pores ought to suffice…"
+         1 string Localized = "Огромные дыры тайно вырыты там, где поры земли должны были бы быть достаточны…"
        [320]
         0 LocalizedString data
          1 string StringID = "OptionsHint ClearDataInter"
-         1 string Localized = "Hold to delete all saved data. This cannot be undone!"
+         1 string Localized = "Удерживайте, чтобы удалить все сохранения. Это нельзя отменить!"
        [321]
         0 LocalizedString data
          1 string StringID = "OptionsHint ScaleControllerInter"
-         1 string Localized = "Set the pixel magnification level. On Auto, the largest possible magnification for your resolution will be used."
+         1 string Localized = "Установите масштаб пикселей. В режиме "Авто" используется максимальный масштаб для вашего разрешения."
        [322]
         0 LocalizedString data
          1 string StringID = "OptionsHint FitControllerInter"
-         1 string Localized = "Set the image fitting method. For best visual quality, set to Pixel Perfect."
+         1 string Localized = "Выберите способ подгонки изображения. Для лучшего качества включите способ "Точно по пикселям"."
        [323]
         0 LocalizedString data
          1 string StringID = "OptionsHint FogControllerInter"
-         1 string Localized = "Disabling volumetric fog effects may improve performance on old systems at the cost of visual quality."
+         1 string Localized = "Отключение объёмного тумана может улучшить производительность на старых системах за счёт качества графики."
        [324]
         0 LocalizedString data
          1 string StringID = "OptionsHint ReflexControllerInter"
-         1 string Localized = "Disabling reflections may improve performance on old systems at the cost of visual quality."
+         1 string Localized = "Отключение отражений может повысить производительность на старых системах за счёт визуального качества."
        [325]
         0 LocalizedString data
          1 string StringID = "OptionsHint VeilControllerInter"
-         1 string Localized = "Disabling complex enemy rendering may improve performance on old systems at the cost of visual quality."
+         1 string Localized = "Отключение сложной прорисовки врагов может повысить производительность на старых системах за счёт визуального качества."
        [326]
         0 LocalizedString data
          1 string StringID = "OptionsHint DecalControllerInter"
-         1 string Localized = "Disabling complex laser projections may improve performance on old systems at the cost of visual quality."
+         1 string Localized = "Отключение сложной проекции лазеров может повысить производительность на старых системах за счёт визуального качества."
        [327]
         0 LocalizedString data
          1 string StringID = "OptionsHint GrainControllerInter"
-         1 string Localized = "Disabling film grain is recommended for recording or streaming the game."
+         1 string Localized = "Отключение эффекта плёночного зерна рекомендуется при записи или стриме игры."
        [328]
         0 LocalizedString data
          1 string StringID = "OptionsHint CRTControllerInter Console"
-         1 string Localized = "For the ultimate retro experience. A resolution of 1080p or higher is required for this setting."
+         1 string Localized = "Для полного ретро-эффекта. Требуется разрешение 1080p или выше."
        [329]
         0 LocalizedString data
          1 string StringID = "OptionsHint DisplayControllerInter"
-         1 string Localized = "Select the display device on which the game should be displayed on."
+         1 string Localized = "Выберите устройство отображения для игры."
        [330]
         0 LocalizedString data
          1 string StringID = "OptionsHint ResolutionControllerInter"
-         1 string Localized = "Sets the game resolution. Set this to your monitor's native resolution."
+         1 string Localized = "Установите разрешение игры. Рекомендуется нативное разрешение вашего монитора."
        [331]
         0 LocalizedString data
          1 string StringID = "OptionsHint WindowedControllerInter"
-         1 string Localized = "Toggles Fullscreen/Windowed mode."
+         1 string Localized = "Переключает режим полноэкранного/оконного отображения."
        [332]
         0 LocalizedString data
          1 string StringID = "OptionsHint VsyncControllerInter"
-         1 string Localized = "Activating Vertical Synchronization may reduce visual tearing at the cost of some performance."
+         1 string Localized = "Включение вертикальной синхронизации уменьшает разрывы изображения, но может немного снизить производительность."
        [333]
         0 LocalizedString data
          1 string StringID = "OptionsHint BrightnessControllerInter"
-         1 string Localized = "Adjust the brightness so that the middle emblem is barely visible."
+         1 string Localized = "Настройте яркость так, чтобы средний элемент был едва виден."
        [334]
         0 LocalizedString data
          1 string StringID = "OptionsHint Language"
-         1 string Localized = "The language the game is presented in."
+         1 string Localized = "Язык, на котором отображается игра."
        [335]
         0 LocalizedString data
          1 string StringID = "OptionsHint MasterVol"
-         1 string Localized = "The overall volume of the game."
+         1 string Localized = "Общая громкость игры."
        [336]
         0 LocalizedString data
          1 string StringID = "OptionsHint MusicVol"
-         1 string Localized = "The music volume of the game."
+         1 string Localized = "Громкость музыки в игре."
        [337]
         0 LocalizedString data
          1 string StringID = "OptionsHint SfxVol"
-         1 string Localized = "The sound effect volume of the game."
+         1 string Localized = "Громкость звуковых эффектов."
        [338]
         0 LocalizedString data
          1 string StringID = "OptionsHint Apply"
-         1 string Localized = "Apply changes."
+         1 string Localized = "Применить изменения."
        [339]
         0 LocalizedString data
          1 string StringID = "OptionsHint Controls"
-         1 string Localized = "Rebind controls."
+         1 string Localized = "Переназначение кнопок.."
        [340]
         0 LocalizedString data
          1 string StringID = "OptionsHint Cancel"
-         1 string Localized = "Unapplied settings will be lost."
+         1 string Localized = "Неприменённые настройки будут потеряны."
        [341]
         0 LocalizedString data
          1 string StringID = "OptionsHint VolMasterControllerInter"
-         1 string Localized = "The total volume of all game audio."
+         1 string Localized = "Общая громкость всего аудио игры."
        [342]
         0 LocalizedString data
          1 string StringID = "OptionsHint VolMusicControllerInter"
-         1 string Localized = "The volume of the game soundtrack music."
+         1 string Localized = "Громкость музыки саундтрека."
        [343]
         0 LocalizedString data
          1 string StringID = "OptionsHint VolSFXControllerInter"
-         1 string Localized = "The volume of sound effects (gunshots, footsteps, etc.)"
+         1 string Localized = "Громкость звуковых эффектов (выстрелы, шаги и т.д.)"
        [344]
         0 LocalizedString data
          1 string StringID = "OptionsHint VolRadioControllerInter"
-         1 string Localized = "The volume of the radio module."
+         1 string Localized = "Громкость радиомодуля."
        [345]
         0 LocalizedString data
          1 string StringID = "OptionsHint CStyleControllerInter"
-         1 string Localized = "Sets the directional controls behavior."
+         1 string Localized = "Устанавливает стиль управления направлением."
        [346]
         0 LocalizedString data
          1 string StringID = "OptionsHint TankControl"
-         1 string Localized = "Directional controls are relative to the character (e.g. up moves forward)."
+         1 string Localized = "Направление управления относительно персонажа (например, вверх - вперёд)."
        [347]
         0 LocalizedString data
          1 string StringID = "OptionsHint RelativeControl"
-         1 string Localized = "Directional controls are relative to the camera (e.g. up moves north)."
+         1 string Localized = "Направление управления относительно камеры (например, вверх - север)."
        [348]
         0 LocalizedString data
          1 string StringID = "OptionsHint RStyleControllerInter"
-         1 string Localized = "Sets the sprint key behavior."
+         1 string Localized = "Настройка поведения кнопки спринта.."
        [349]
         0 LocalizedString data
          1 string StringID = "OptionsHint RStyleControllerInter PS"
-         1 string Localized = "Sets the sprint button behavior."
+         1 string Localized = "Настройка поведения кнопки спринта."
        [350]
         0 LocalizedString data
          1 string StringID = "OptionsHint RStyleControllerInter XB"
-         1 string Localized = "Sets the sprint button behavior."
+         1 string Localized = "Настройка поведения кнопки спринта."
        [351]
         0 LocalizedString data
          1 string StringID = "OptionsHint RStyleControllerInter NS"
-         1 string Localized = "Sets the sprint button behavior."
+         1 string Localized = "Настройка поведения кнопки спринта."
        [352]
         0 LocalizedString data
          1 string StringID = "OptionsHint AStyleControllerInter"
-         1 string Localized = "Sets the aim key behavior."
+         1 string Localized = "Настройка поведения кнопки прицеливания."
        [353]
         0 LocalizedString data
          1 string StringID = "OptionsHint AStyleControllerInter PS"
-         1 string Localized = "Sets the aim button behavior."
+         1 string Localized = "Настройка поведения кнопки прицеливания."
        [354]
         0 LocalizedString data
          1 string StringID = "OptionsHint AStyleControllerInter XB"
-         1 string Localized = "Sets the aim button behavior."
+         1 string Localized = "Настройка поведения кнопки прицеливания."
        [355]
         0 LocalizedString data
          1 string StringID = "OptionsHint AStyleControllerInter NS"
-         1 string Localized = "Sets the aim button behavior."
+         1 string Localized = "Настройка поведения кнопки прицеливания."
        [356]
         0 LocalizedString data
          1 string StringID = "OptionsHint SwapControllerInter"
-         1 string Localized = "Swaps the left and right stick while aiming (not compatible with "Tank" style or quick aim)."
+         1 string Localized = "Меняет левый и правый стики при прицеливании (не совместимо с "Танк" стилем или быстрым прицелом)."
        [357]
         0 LocalizedString data
          1 string StringID = "OptionsHint SwapControllerInter PS"
-         1 string Localized = "Swaps the left and right stick while aiming (not compatible with "Tank" style or quick aim)."
+         1 string Localized = "Меняет левый и правый стики при прицеливании (не совместимо с "Танк" стилем или быстрым прицелом)."
        [358]
         0 LocalizedString data
          1 string StringID = "OptionsHint SwapControllerInter XB"
-         1 string Localized = "Swaps the left and right stick while aiming (not compatible with "Tank" style or quick aim)."
+         1 string Localized = "Меняет левый и правый стики при прицеливании (не совместимо с "Танк" стилем или быстрым прицелом)."
        [359]
         0 LocalizedString data
          1 string StringID = "OptionsHint SwapControllerInter NS"
-         1 string Localized = "Swaps the Left and Right Stick while aiming (not compatible with "Tank" style or quick aim)."
+         1 string Localized = "Меняет левый и правый стики при прицеливании (не совместимо с "Танк" стилем или быстрым прицелом)."
        [360]
         0 LocalizedString data
          1 string StringID = "OptionsHint MouseAimSensControllerInter"
-         1 string Localized = "The mouse sensitivity multiplier in first-person walking scenes and when using the Aim Only Crosshair."
+         1 string Localized = "Множитель чувствительности мыши в сценах от первого лица и при использовании прицела."
        [361]
         0 LocalizedString data
          1 string StringID = "OptionsHint QRadioControllerInter"
-         1 string Localized = "Sets the modules key behavior."
+         1 string Localized = "Настройка кнопки модулей."
        [362]
         0 LocalizedString data
          1 string StringID = "OptionsHint QRadioControllerInter PS"
-         1 string Localized = "Sets the modules button behavior."
+         1 string Localized = "Настройка кнопки модулей."
        [363]
         0 LocalizedString data
          1 string StringID = "OptionsHint QRadioControllerInter XB"
-         1 string Localized = "Sets the modules button behavior."
+         1 string Localized = "Настройка кнопки модулей."
        [364]
         0 LocalizedString data
          1 string StringID = "OptionsHint QRadioControllerInter NS"
-         1 string Localized = "Sets the modules button behavior."
+         1 string Localized = "Настройка кнопки модулей."
        [365]
         0 LocalizedString data
          1 string StringID = "OptionsHint KBLayoutControllerInter"
-         1 string Localized = "Sets the style of keyboard controls."
+         1 string Localized = "Устанавливает стиль клавиатурного управления."
        [366]
         0 LocalizedString data
          1 string StringID = "OptionsHint CLayoutControllerInter"
-         1 string Localized = "Sets the style of controller controls."
+         1 string Localized = "Устанавливает стиль клавиатурного управления."
        [367]
         0 LocalizedString data
          1 string StringID = "OptionsHint CLayoutControllerInter PS"
-         1 string Localized = "Sets the style of controls."
+         1 string Localized = "Устанавливает стиль управления."
        [368]
         0 LocalizedString data
          1 string StringID = "OptionsHint CLayoutControllerInter XB"
-         1 string Localized = "Sets the style of controls."
+         1 string Localized = "Устанавливает стиль управления."
        [369]
         0 LocalizedString data
          1 string StringID = "OptionsHint CLayoutControllerInter NS"
-         1 string Localized = "Sets the style of controls."
+         1 string Localized = "Устанавливает стиль управления."
        [370]
         0 LocalizedString data
          1 string StringID = "Qradio ON"
-         1 string Localized = "The modules key toggles the radio directly."
+         1 string Localized = "Кнопка модулей напрямую включает/выключает радио.."
        [371]
         0 LocalizedString data
          1 string StringID = "Qradio ON PS"
-         1 string Localized = "The modules button toggles the radio directly."
+         1 string Localized = "Кнопка модулей напрямую включает/выключает радио."
        [372]
         0 LocalizedString data
          1 string StringID = "Qradio ON XB"
-         1 string Localized = "The modules button toggles the radio directly."
+         1 string Localized = "Кнопка модулей напрямую включает/выключает радио."
        [373]
         0 LocalizedString data
          1 string StringID = "Qradio ON NS"
-         1 string Localized = "The modules button toggles the radio directly."
+         1 string Localized = "Кнопка модулей напрямую включает/выключает радио."
        [374]
         0 LocalizedString data
          1 string StringID = "Qradio OFF"
-         1 string Localized = "The modules key opens the modules screen."
+         1 string Localized = "Кнопка модулей открывает экран модулей."
        [375]
         0 LocalizedString data
          1 string StringID = "Qradio OFF PS"
-         1 string Localized = "The modules button opens the modules screen."
+         1 string Localized = "Кнопка модулей открывает экран модулей."
        [376]
         0 LocalizedString data
          1 string StringID = "Qradio OFF XB"
-         1 string Localized = "The modules button opens the modules screen."
+         1 string Localized = "Кнопка модулей открывает экран модулей."
        [377]
         0 LocalizedString data
          1 string StringID = "Qradio OFF NS"
-         1 string Localized = "The modules button opens the modules screen."
+         1 string Localized = "Кнопка модулей открывает экран модулей."
        [378]
         0 LocalizedString data
          1 string StringID = "OptionsON"
-         1 string Localized = "ON"
+         1 string Localized = "ВКЛ."
        [379]
         0 LocalizedString data
          1 string StringID = "OptionsOFF"
-         1 string Localized = "OFF"
+         1 string Localized = "ВЫКЛ."
        [380]
         0 LocalizedString data
          1 string StringID = "Menu LoadProgress"
-         1 string Localized = "Load Progress"
+         1 string Localized = "Загрузить сохранение"
        [381]
         0 LocalizedString data
          1 string StringID = "Menu File01"
-         1 string Localized = "FILE 01"
+         1 string Localized = "ФАЙЛ 01"
        [382]
         0 LocalizedString data
          1 string StringID = "Menu File02"
-         1 string Localized = "FILE 02"
+         1 string Localized = "ФАЙЛ 02"
        [383]
         0 LocalizedString data
          1 string StringID = "Menu File03"
-         1 string Localized = "FILE 03"
+         1 string Localized = "ФАЙЛ 03"
        [384]
         0 LocalizedString data
          1 string StringID = "Menu File04"
-         1 string Localized = "FILE 04"
+         1 string Localized = "ФАЙЛ 04"
        [385]
         0 LocalizedString data
          1 string StringID = "Menu NewGame"
@@ -1559,87 +1559,87 @@
        [388]
         0 LocalizedString data
          1 string StringID = "Menu PopLoadFile"
-         1 string Localized = "LOAD FILE {0:00}?\n{1} / {2}"
+         1 string Localized = "ЗАГРУЗИТЬ ФАЙЛ {0:00}?\n{1} / {2}"
        [389]
         0 LocalizedString data
          1 string StringID = "Menu PopNoFile"
-         1 string Localized = "NO SAVED DATA IN FILE {0:00}.\nBEGIN ANEW?"
+         1 string Localized = "НЕ НАЙДЕНО ДАННЫХ В ФАЙЛЕ {0:00}.\nНАЧАТЬ ЗАНОВО?"
        [390]
         0 LocalizedString data
          1 string StringID = "Menu PopStartNew"
-         1 string Localized = "START OVER FROM THE BEGINNING?\nNO PROGRESS WILL BE LOST UNTIL YOU SAVE."
+         1 string Localized = "НАЧАТЬ ПО НОВОЙ С НАЧАЛА?\nПРОГРЕСС НЕ БУДЕТ УТЕРЯН ПОКА ВЫ НЕ СОХРАНИТЕСЬ."
        [391]
         0 LocalizedString data
          1 string StringID = "Menu PopSaveFile"
-         1 string Localized = "FILE {0:00} already contains saved data.\nOverwrite existing data?"
+         1 string Localized = "ФАЙЛ {0:00} уже имеет сохраненные данные.\nПереписать сохранение?"
        [392]
         0 LocalizedString data
          1 string StringID = "Menu PopSaveNew"
-         1 string Localized = "SAVE PROGRESS IN FILE {0:00}?"
+         1 string Localized = "СОХРАНИТЬ ПРОГРЕСС В ФАЙЛЕ {0:00}?"
        [393]
         0 LocalizedString data
          1 string StringID = "Menu PopSaveCancel"
-         1 string Localized = "Continue without saving?"
+         1 string Localized = "Продолжить без сохранения?"
        [394]
         0 LocalizedString data
          1 string StringID = "Slot NoData"
-         1 string Localized = "NO DATA"
+         1 string Localized = "НЕТ ДАННЫХ"
        [395]
         0 LocalizedString data
          1 string StringID = "Menu SaveCancel"
-         1 string Localized = "Continue without saving"
+         1 string Localized = "Продолжить без сохранения"
        [396]
         0 LocalizedString data
          1 string StringID = "Menu Saved"
-         1 string Localized = "Progress saved in file {0:00}."
+         1 string Localized = "Прогресс сохранен в файле {0:00}."
        [397]
         0 LocalizedString data
          1 string StringID = "Menu NotSaved"
-         1 string Localized = "You'll regret this later."
+         1 string Localized = "Вы пожалеете об этом позже."
        [398]
         0 LocalizedString data
          1 string StringID = "Menu Saving"
-         1 string Localized = "Saving progress in file {0:00}…"
+         1 string Localized = "Сохранение прогресса в файле {0:00}…"
        [399]
         0 LocalizedString data
          1 string StringID = "Yes"
-         1 string Localized = "Yes"
+         1 string Localized = "Да"
        [400]
         0 LocalizedString data
          1 string StringID = "No"
-         1 string Localized = "No"
+         1 string Localized = "Нет"
        [401]
         0 LocalizedString data
          1 string StringID = "Minimap Penrose"
-         1 string Localized = "Penrose-512"
+         1 string Localized = "Пенроуз-512"
        [402]
         0 LocalizedString data
          1 string StringID = "Minimap Sierpinski"
-         1 string Localized = "AEON Facility S-23 「Sierpinski」"
+         1 string Localized = "Объект AEON S-23 「Серпински」"
        [403]
         0 LocalizedString data
          1 string StringID = "Minimap Memory"
-         1 string Localized = "Penrose-512"
+         1 string Localized = "Пенроуз-512"
        [404]
         0 LocalizedString data
          1 string StringID = "Minimap Rotfront"
-         1 string Localized = "Rotfront"
+         1 string Localized = "Ротфронт"
        [405]
         0 LocalizedString data
          1 string StringID = "Minimap Unknown"
-         1 string Localized = "[ Unknown Location ]"
+         1 string Localized = "[ Неизвестное местоположение ]"
        [406]
         0 LocalizedString data
          1 string StringID = "Minimap PEN_LowerDeck"
-         1 string Localized = "Lower Deck"
+         1 string Localized = "Нижняя палуба"
        [407]
         0 LocalizedString data
          1 string StringID = "Minimap PEN_UpperDeck"
-         1 string Localized = "Upper Deck"
+         1 string Localized = "Верхняя палуба"
        [408]
         0 LocalizedString data
          1 string StringID = "Minimap PEN_Exterior"
-         1 string Localized = "Unknown Planet"
+         1 string Localized = "Неизвестная планета"
        [409]
         0 LocalizedString data
          1 string StringID = "Minimap LOV_Reeducation"
@@ -1647,39 +1647,39 @@
        [410]
         0 LocalizedString data
          1 string StringID = "Minimap DET_Detention"
-         1 string Localized = "B2 - Worker Accommodations"
+         1 string Localized = "B2 - Жилые помещения рабочих"
        [411]
         0 LocalizedString data
          1 string StringID = "Minimap BIO_Corrupted"
-         1 string Localized = "B2a - Communications"
+         1 string Localized = "B2a - Связь"
        [412]
         0 LocalizedString data
          1 string StringID = "Minimap MED_UpperMedical"
-         1 string Localized = "B3 - New Medical Ward"
+         1 string Localized = "B3 - Новое медицинское отделение"
        [413]
         0 LocalizedString data
          1 string StringID = "Minimap MED_LowerMedical"
-         1 string Localized = "B4 - Old Medical Ward"
+         1 string Localized = "B4 - Старое медицинское отделение"
        [414]
         0 LocalizedString data
          1 string StringID = "Minimap RES_4F"
-         1 string Localized = "B5 - Service Level"
+         1 string Localized = "B5 - Служебный уровень"
        [415]
         0 LocalizedString data
          1 string StringID = "Minimap RES_3F"
-         1 string Localized = "B6 - Staff Accommodations"
+         1 string Localized = "B6 - Жилые помещения персонала"
        [416]
         0 LocalizedString data
          1 string StringID = "Minimap RES_2F"
-         1 string Localized = "B7 - Protektor Accommodations"
+         1 string Localized = "B7 - Жилые помещения Протектора"
        [417]
         0 LocalizedString data
          1 string StringID = "Minimap RES_1F"
-         1 string Localized = "B8 - Controller Accommodations"
+         1 string Localized = "B8 - Жилые помещения Контроллера"
        [418]
         0 LocalizedString data
          1 string StringID = "Minimap EXC_DigSite"
-         1 string Localized = "Excavation Site"
+         1 string Localized = "Место раскопок"
        [419]
         0 LocalizedString data
          1 string StringID = "Minimap LAB_UpperLevel"
@@ -1707,43 +1707,43 @@
        [425]
         0 LocalizedString data
          1 string StringID = "Minimap MEM_LowerDeck"
-         1 string Localized = "Lower Deck"
+         1 string Localized = "Нижняя палуба"
        [426]
         0 LocalizedString data
          1 string StringID = "Minimap MEM_UpperDeck"
-         1 string Localized = "Upper Deck"
+         1 string Localized = "Верхняя палуба"
        [427]
         0 LocalizedString data
          1 string StringID = "Minimap MEM_Vineta"
-         1 string Localized = "Vineta"
+         1 string Localized = "Винета"
        [428]
         0 LocalizedString data
          1 string StringID = "Minimap ROT_UBahn"
-         1 string Localized = "Metro Station"
+         1 string Localized = "Станция метро"
        [429]
         0 LocalizedString data
          1 string StringID = "Minimap ROT_Apartments"
-         1 string Localized = "Apartments (Upper Floor)"
+         1 string Localized = "Апартаменты (Верхний Этаж)"
        [430]
         0 LocalizedString data
          1 string StringID = "Minimap ROT_GroundFloor"
-         1 string Localized = "Apartments (Ground Floor)"
+         1 string Localized = "Апартаменты (Первый этаж)"
        [431]
         0 LocalizedString data
          1 string StringID = "Minimap Nowhere"
-         1 string Localized = "Nowhere"
+         1 string Localized = "Нигде"
        [432]
         0 LocalizedString data
          1 string StringID = "Minimap NoMapData"
-         1 string Localized = "No Map Data"
+         1 string Localized = "Нет данных"
        [433]
         0 LocalizedString data
          1 string StringID = "NO LOCATION"
-         1 string Localized = "NO LOCATION"
+         1 string Localized = "ОШИБКА МЕСТОПОЛОЖЕНИЯ"
        [434]
         0 LocalizedString data
          1 string StringID = "PEN_CrashSite"
-         1 string Localized = "Penrose-512"
+         1 string Localized = "Пенроуз-512"
        [435]
         0 LocalizedString data
          1 string StringID = "LOV_Reeducation"
@@ -1751,23 +1751,23 @@
        [436]
         0 LocalizedString data
          1 string StringID = "DET_Detention"
-         1 string Localized = "Workers"
+         1 string Localized = "Работники"
        [437]
         0 LocalizedString data
          1 string StringID = "MED_Medical"
-         1 string Localized = "Hospital"
+         1 string Localized = "Госпиталь"
        [438]
         0 LocalizedString data
          1 string StringID = "RES_Residential"
-         1 string Localized = "Protektors"
+         1 string Localized = "Протекторы"
        [439]
         0 LocalizedString data
          1 string StringID = "EXC_Mines"
-         1 string Localized = "Excavation"
+         1 string Localized = "Раскопки"
        [440]
         0 LocalizedString data
          1 string StringID = "LAB_Labyrinth"
-         1 string Localized = "Nowhere"
+         1 string Localized = "Нигде"
        [441]
         0 LocalizedString data
          1 string StringID = "MEM_Memory"
@@ -1779,315 +1779,315 @@
        [443]
         0 LocalizedString data
          1 string StringID = "ROT_Rotfront"
-         1 string Localized = "Rotfront"
+         1 string Localized = "Ротфронт"
        [444]
         0 LocalizedString data
          1 string StringID = "BOS_Adler"
-         1 string Localized = "End"
+         1 string Localized = "Конец"
        [445]
         0 LocalizedString data
          1 string StringID = "END_End"
-         1 string Localized = "Nowhere"
+         1 string Localized = "Нигде"
        [446]
         0 LocalizedString data
          1 string StringID = "SaveRoom UNKNOWN ROOM"
-         1 string Localized = "UNKNOWN ROOM"
+         1 string Localized = "НЕИЗВЕСТНАЯ КОМНАТА"
        [447]
         0 LocalizedString data
          1 string StringID = "SaveRoom Staff Room"
-         1 string Localized = "Staff Room"
+         1 string Localized = "Комната персонала"
        [448]
         0 LocalizedString data
          1 string StringID = "SaveRoom Save Room"
-         1 string Localized = "First Aid"
+         1 string Localized = "Первая помощь"
        [449]
         0 LocalizedString data
          1 string StringID = "SaveRoom Reception"
-         1 string Localized = "Reception"
+         1 string Localized = "Ресепшн"
        [450]
         0 LocalizedString data
          1 string StringID = "SaveRoom Surgery"
-         1 string Localized = "Surgery"
+         1 string Localized = "Хирургическая"
        [451]
         0 LocalizedString data
          1 string StringID = "SaveRoom Flooded Office"
-         1 string Localized = "Flooded Office"
+         1 string Localized = "Затопленный офис"
        [452]
         0 LocalizedString data
          1 string StringID = "SaveRoom Maintenance Office"
-         1 string Localized = "Maintenance Office"
+         1 string Localized = "Комната техобслуживания"
        [453]
         0 LocalizedString data
          1 string StringID = "SaveRoom Piano Room"
-         1 string Localized = "Piano Room"
+         1 string Localized = "Комната с пианино"
        [454]
         0 LocalizedString data
          1 string StringID = "SaveRoom Mining Office"
-         1 string Localized = "Mining Station"
+         1 string Localized = "Горная станция"
        [455]
         0 LocalizedString data
          1 string StringID = "SaveRoom Unknown Place"
-         1 string Localized = "Unknown Place"
+         1 string Localized = "Неизвестное место"
        [456]
         0 LocalizedString data
          1 string StringID = "SaveRoom Classroom"
-         1 string Localized = "Classroom"
+         1 string Localized = "Класс"
        [457]
         0 LocalizedString data
          1 string StringID = "SaveRoom Bedroom"
-         1 string Localized = "Within"
+         1 string Localized = "Внутри"
        [458]
         0 LocalizedString data
          1 string StringID = "SaveRoom Blockwart"
-         1 string Localized = "Bedroom"
+         1 string Localized = "Спальня"
        [459]
         0 LocalizedString data
          1 string StringID = "SaveRoom Computer Store"
-         1 string Localized = "Computer Store"
+         1 string Localized = "Хранилище компьютера"
        [460]
         0 LocalizedString data
          1 string StringID = "SaveRoom Home"
-         1 string Localized = "Home"
+         1 string Localized = "Дом"
        [461]
         0 LocalizedString data
          1 string StringID = "StartupDisclaimer"
-         1 string Localized = "Some parts of this game may be considered violent or cruel."
+         1 string Localized = "Некоторые моменты этой игры могут показаться чрезмерно жестокими."
        [462]
         0 LocalizedString data
          1 string StringID = "StartupController"
-         1 string Localized = "Controller and Headphones \nstrongly recommended"
+         1 string Localized = "Контроллер и Наушники \nСтрого рекомендуются"
        [463]
         0 LocalizedString data
          1 string StringID = "FotoTake"
-         1 string Localized = "Capture Photograph"
+         1 string Localized = "Сделать снимок"
        [464]
         0 LocalizedString data
          1 string StringID = "FotoReview"
-         1 string Localized = "View Photographs"
+         1 string Localized = "Посмотреть снимок."
        [465]
         0 LocalizedString data
          1 string StringID = "CalibrationSuccess"
-         1 string Localized = "System calibrated."
+         1 string Localized = "Система откалибрована."
        [466]
         0 LocalizedString data
          1 string StringID = "Photosensitivity"
-         1 string Localized = "<style=red>PHOTOSENSITIVITY WARNING</style>\nSome people may experience discomfort or seizures when exposed to certain lights, patterns or images.\nIf you experience any unusual symptoms while playing, please immediately stop playing."
+         1 string Localized = "<style=red>ПРЕДУПРЕЖДЕНИЕ О ФОТОЧУВСТВИТЕЛЬНОСТИ</style>\nНекоторые люди могут испытывать дискомфорт или судороги при воздействии определённых огней, узоров или изображений.\nЕсли вы заметили любые необычные симптомы во время игры, немедленно прекратите игру."
        [467]
         0 LocalizedString data
          1 string StringID = "ProfileSelect"
-         1 string Localized = "Profile Selection"
+         1 string Localized = "Выбор профиля"
        [468]
         0 LocalizedString data
          1 string StringID = "ProfileWarning"
-         1 string Localized = "Delete All Save Data\n<style=red>This cannot be undone!</style>"
+         1 string Localized = "Удаляет все данные профиля.\n<style=red>Действие не может быть отменено!</style>"
        [469]
         0 LocalizedString data
          1 string StringID = "ProfileProfile"
-         1 string Localized = "Profile"
+         1 string Localized = "Профиль"
        [470]
         0 LocalizedString data
          1 string StringID = "ProfileNew"
-         1 string Localized = "New Profile"
+         1 string Localized = "Новый профиль"
        [471]
         0 LocalizedString data
          1 string StringID = "ProfileDelete"
-         1 string Localized = "Delete Profile"
+         1 string Localized = "Удалить профиль"
        [472]
         0 LocalizedString data
          1 string StringID = "ProfileDeleteEnd"
-         1 string Localized = "Cancel Deleting"
+         1 string Localized = "Отменить удаление"
        [473]
         0 LocalizedString data
          1 string StringID = "ProfileDeleteHint"
-         1 string Localized = "Select Profile and hold to delete."
+         1 string Localized = "Выберите профиль и удерживайте, чтобы удалить."
        [474]
         0 LocalizedString data
          1 string StringID = "ProfileDeleting"
-         1 string Localized = "Deleting…"
+         1 string Localized = "Удаление…"
        [475]
         0 LocalizedString data
          1 string StringID = "Press any key"
-         1 string Localized = "Press any key"
+         1 string Localized = "Нажмите любую клавишу"
        [476]
         0 LocalizedString data
          1 string StringID = "Press any key Console"
-         1 string Localized = "Press any button"
+         1 string Localized = "Нажмите любую кнопку"
        [477]
         0 LocalizedString data
          1 string StringID = "Press any key PS"
-         1 string Localized = "Press any button"
+         1 string Localized = "Нажмите любую кнопку"
        [478]
         0 LocalizedString data
          1 string StringID = "Press any key XB"
-         1 string Localized = "Press any button"
+         1 string Localized = "Нажмите любую кнопку"
        [479]
         0 LocalizedString data
          1 string StringID = "Press any key NS"
-         1 string Localized = "Press any button"
+         1 string Localized = "Нажмите любую кнопку"
        [480]
         0 LocalizedString data
          1 string StringID = "HoldToProfiles"
-         1 string Localized = "Hold any key to switch profile"
+         1 string Localized = "Удерживайте любую кнопку для смены профиля"
        [481]
         0 LocalizedString data
          1 string StringID = "HoldToProfiles Console"
-         1 string Localized = "Hold any button to switch profile"
+         1 string Localized = "Удерживайте любую кнопку для смены профиля"
        [482]
         0 LocalizedString data
          1 string StringID = "HoldToProfiles PS"
-         1 string Localized = "Hold any button to switch profile"
+         1 string Localized = "Удерживайте любую кнопку для смены профиля"
        [483]
         0 LocalizedString data
          1 string StringID = "HoldToProfiles XB"
-         1 string Localized = "Hold any button to switch profile"
+         1 string Localized = "Удерживайте любую кнопку для смены профиля"
        [484]
         0 LocalizedString data
          1 string StringID = "HoldToProfiles NS"
-         1 string Localized = "Hold any button to switch profile"
+         1 string Localized = "Удерживайте любую кнопку для смены профиля"
        [485]
         0 LocalizedString data
          1 string StringID = "PauseMenuPause"
-         1 string Localized = "Pause"
+         1 string Localized = "Пауза"
        [486]
         0 LocalizedString data
          1 string StringID = "PauseMenuContinue"
-         1 string Localized = "Continue"
+         1 string Localized = "Продолжить"
        [487]
         0 LocalizedString data
          1 string StringID = "PauseMenuOptions"
-         1 string Localized = "Settings"
+         1 string Localized = "Настройки"
        [488]
         0 LocalizedString data
          1 string StringID = "PauseMenuQuit"
-         1 string Localized = "Quit"
+         1 string Localized = "Выйти"
        [489]
         0 LocalizedString data
          1 string StringID = "PauseMenuWarning"
-         1 string Localized = "Unsaved progress will be lost."
+         1 string Localized = "Несохраненный прогресс будет утерян."
        [490]
         0 LocalizedString data
          1 string StringID = "PauseMenuWarningKill"
-         1 string Localized = "Quit to Desktop"
+         1 string Localized = "Выйти на рабочий стол"
        [491]
         0 LocalizedString data
          1 string StringID = "PauseMenuWarningYes"
-         1 string Localized = "Return to Menu"
+         1 string Localized = "Вернуться в меню"
        [492]
         0 LocalizedString data
          1 string StringID = "PauseMenuWarningNo"
-         1 string Localized = "Cancel"
+         1 string Localized = "Отменить"
        [493]
         0 LocalizedString data
          1 string StringID = "ResultsHoldTo"
-         1 string Localized = "Hold any key to continue"
+         1 string Localized = "Нажмите любую клавишу, чтобы продолжить"
        [494]
         0 LocalizedString data
          1 string StringID = "ResultsHoldTo PS"
-         1 string Localized = "Hold any button to continue"
+         1 string Localized = "Нажмите любую кнопку, чтобы продолжить"
        [495]
         0 LocalizedString data
          1 string StringID = "ResultsHoldTo XB"
-         1 string Localized = "Hold any button to continue"
+         1 string Localized = "Нажмите любую кнопку, чтобы продолжить"
        [496]
         0 LocalizedString data
          1 string StringID = "ResultsHoldTo NS"
-         1 string Localized = "Hold any button to continue"
+         1 string Localized = "Нажмите любую кнопку, чтобы продолжить"
        [497]
         0 LocalizedString data
          1 string StringID = "ResultsHoldTo Console"
-         1 string Localized = "Hold any button to continue"
+         1 string Localized = "Нажмите любую кнопку, чтобы продолжить"
        [498]
         0 LocalizedString data
          1 string StringID = "ResultsAnyKey"
-         1 string Localized = "Press any key to continue"
+         1 string Localized = "Нажмите любую кнопку, чтобы продолжить"
        [499]
         0 LocalizedString data
          1 string StringID = "ResultsAnyKey Console"
-         1 string Localized = "Press any button to continue"
+         1 string Localized = "Нажмите любую кнопку, чтобы продолжить"
        [500]
         0 LocalizedString data
          1 string StringID = "ResultsTime"
-         1 string Localized = "Total Game Time"
+         1 string Localized = "Всего времени затрачено"
        [501]
         0 LocalizedString data
          1 string StringID = "ResultsActTime"
-         1 string Localized = "Total Active Play Time"
+         1 string Localized = "Всего активного игрового времени затрачено"
        [502]
         0 LocalizedString data
          1 string StringID = "ResultsSaves"
-         1 string Localized = "Times Saved"
+         1 string Localized = "Всего сохранений"
        [503]
         0 LocalizedString data
          1 string StringID = "ResultsLoads"
-         1 string Localized = "Times Loaded"
+         1 string Localized = "Всего загрузок"
        [504]
         0 LocalizedString data
          1 string StringID = "ResultsDeaths"
-         1 string Localized = "Times Died"
+         1 string Localized = "Кол-во смертей"
        [505]
         0 LocalizedString data
          1 string StringID = "ResultsSaveInterval"
-         1 string Localized = "Average Time Between Saves"
+         1 string Localized = "Среднее время между сохранениями"
        [506]
         0 LocalizedString data
          1 string StringID = "ResultsImpressive"
-         1 string Localized = "IMPRESSIVE"
+         1 string Localized = "ВПЕЧАТЛЯЮЩЕ"
        [507]
         0 LocalizedString data
          1 string StringID = "ResultsDamage"
-         1 string Localized = "Damage Taken"
+         1 string Localized = "Урона получено"
        [508]
         0 LocalizedString data
          1 string StringID = "ResultsHeal"
-         1 string Localized = "Total Healing"
+         1 string Localized = "Здоровья вылечено"
        [509]
         0 LocalizedString data
          1 string StringID = "ResultsPhoenix"
-         1 string Localized = "Death Cheated"
+         1 string Localized = "Смерть предотвращена"
        [510]
         0 LocalizedString data
          1 string StringID = "ResultsKills"
-         1 string Localized = "Enemies Killed"
+         1 string Localized = "Врагов убито"
        [511]
         0 LocalizedString data
          1 string StringID = "ResultsShots"
-         1 string Localized = "Shots Fired"
+         1 string Localized = "Кол-во выстрелов"
        [512]
         0 LocalizedString data
          1 string StringID = "ResultsEnd"
-         1 string Localized = "Ending"
+         1 string Localized = "Концовка"
        [513]
         0 LocalizedString data
          1 string StringID = "ResultsEnd0"
-         1 string Localized = "Memory"
+         1 string Localized = "Память"
        [514]
         0 LocalizedString data
          1 string StringID = "ResultsEnd1"
-         1 string Localized = "Artifact"
+         1 string Localized = "Артифакт"
        [515]
         0 LocalizedString data
          1 string StringID = "ResultsEnd2"
-         1 string Localized = "Promise"
+         1 string Localized = "Обещание"
        [516]
         0 LocalizedString data
          1 string StringID = "ResultsEnd3"
-         1 string Localized = "Leave"
+         1 string Localized = "Уход"
        [517]
         0 LocalizedString data
          1 string StringID = "Console Corrupt"
-         1 string Localized = "Save data was broken and could not be restored. Deleting broken save."
+         1 string Localized = "Данные сохранения повреждены и не могут быть восстановлены. Повреждённое сохранение будет удалено."
        [518]
         0 LocalizedString data
          1 string StringID = "Console Restore"
-         1 string Localized = "Backup was successfully used to restore a broken save."
+         1 string Localized = "Резервная копия успешно использована для восстановления повреждённого сохранения."
        [519]
         0 LocalizedString data
          1 string StringID = "Console Fuckedup"
-         1 string Localized = "There was a problem processing save data."
+         1 string Localized = "Произошла ошибка при обработке данных сохранения."
        [520]
         0 LocalizedString data
          1 string StringID = "Console LoggedOut"
-         1 string Localized = "Please log in to your Xbox account to continue playing.\nLogging into another account will reset the current progress.\nPress the "confirm/enter/proceed button" to sign in."
+         1 string Localized = "Пожалуйста, войдите в свой аккаунт Xbox, чтобы продолжить игру.\nВход в другой аккаунт приведёт к сбросу текущего прогресса.\nНажмите кнопку "Подтвердить/Ввод/Продолжить", чтобы войти."
        [521]
         0 LocalizedString data
          1 string StringID = "Console LoggedOutNick XB"
@@ -2111,171 +2111,171 @@
        [526]
         0 LocalizedString data
          1 string StringID = "Console RelogPrompt"
-         1 string Localized = "Press {0} to sign in"
+         1 string Localized = "Нажмите {0} чтобы войти"
        [527]
         0 LocalizedString data
          1 string StringID = "Interaction Interact"
-         1 string Localized = "Interact"
+         1 string Localized = "Взаимодействовать"
        [528]
         0 LocalizedString data
          1 string StringID = "Interaction Inspect"
-         1 string Localized = "Inspect"
+         1 string Localized = "Осмотреть"
        [529]
         0 LocalizedString data
          1 string StringID = "Interaction Move"
-         1 string Localized = "Move"
+         1 string Localized = "Двигать"
        [530]
         0 LocalizedString data
          1 string StringID = "Interaction Open"
-         1 string Localized = "Open"
+         1 string Localized = "Открыть"
        [531]
         0 LocalizedString data
          1 string StringID = "Interaction Take"
-         1 string Localized = "Take"
+         1 string Localized = "Взять"
        [532]
         0 LocalizedString data
          1 string StringID = "Input Move"
-         1 string Localized = "Move"
+         1 string Localized = "Двигать"
        [533]
         0 LocalizedString data
          1 string StringID = "Input Aim"
-         1 string Localized = "Aim (Hold)"
+         1 string Localized = "Целиться (Удерживать)"
        [534]
         0 LocalizedString data
          1 string StringID = "Input Sprint"
-         1 string Localized = "Sprint"
+         1 string Localized = "Бежать"
        [535]
         0 LocalizedString data
          1 string StringID = "Input Back"
-         1 string Localized = "Back"
+         1 string Localized = "Назад"
        [536]
         0 LocalizedString data
          1 string StringID = "Input Exit"
-         1 string Localized = "Exit"
+         1 string Localized = "Выйти"
        [537]
         0 LocalizedString data
          1 string StringID = "Input TurnPage"
-         1 string Localized = "Turn Page"
+         1 string Localized = "Перелистнуть"
        [538]
         0 LocalizedString data
          1 string StringID = "Input Map"
-         1 string Localized = "Map"
+         1 string Localized = "Карта"
        [539]
         0 LocalizedString data
          1 string StringID = "Input Inventory"
-         1 string Localized = "Inventory"
+         1 string Localized = "Инвентарь"
        [540]
         0 LocalizedString data
          1 string StringID = "Input ToggleAimAssist"
-         1 string Localized = "Toggle Aim Assist"
+         1 string Localized = "Включить помощь в прицеливании"
        [541]
         0 LocalizedString data
          1 string StringID = "Input AimStop"
-         1 string Localized = "Lower (Release)"
+         1 string Localized = "Опустить (Отжать)"
        [542]
         0 LocalizedString data
          1 string StringID = "Input Fire"
-         1 string Localized = "Fire"
+         1 string Localized = "Стрелять"
        [543]
         0 LocalizedString data
          1 string StringID = "Input Reload"
-         1 string Localized = "Reload"
+         1 string Localized = "Перезарядиться"
        [544]
         0 LocalizedString data
          1 string StringID = "Move Horizontal"
-         1 string Localized = "Move Horizontal"
+         1 string Localized = "Идти горизонтально"
        [545]
         0 LocalizedString data
          1 string StringID = "Move Right"
-         1 string Localized = "Move Right"
+         1 string Localized = "Идти направо"
        [546]
         0 LocalizedString data
          1 string StringID = "Move Left"
-         1 string Localized = "Move Left"
+         1 string Localized = "Идти налево"
        [547]
         0 LocalizedString data
          1 string StringID = "Move Vertical"
-         1 string Localized = "Move Vertical"
+         1 string Localized = "Идти вертикально"
        [548]
         0 LocalizedString data
          1 string StringID = "Move Up"
-         1 string Localized = "Move Up"
+         1 string Localized = "Идти вверх"
        [549]
         0 LocalizedString data
          1 string StringID = "Move Down"
-         1 string Localized = "Move Down"
+         1 string Localized = "Идти вниз"
        [550]
         0 LocalizedString data
          1 string StringID = "Aim Horizontal"
-         1 string Localized = "Aim Horizontal"
+         1 string Localized = "Целиться горизонтально"
        [551]
         0 LocalizedString data
          1 string StringID = "Aim Vertical"
-         1 string Localized = "Aim Vertical"
+         1 string Localized = "Целиться вертикально"
        [552]
         0 LocalizedString data
          1 string StringID = "Tune Radio"
-         1 string Localized = "Tune Radio"
+         1 string Localized = "Настроить радио"
        [553]
         0 LocalizedString data
          1 string StringID = "Tune Right"
-         1 string Localized = "Tune Frequency Right"
+         1 string Localized = "Настроить частоту правее"
        [554]
         0 LocalizedString data
          1 string StringID = "Tune Left"
-         1 string Localized = "Tune Frequency Left"
+         1 string Localized = "Настроить частоту левее"
        [555]
         0 LocalizedString data
          1 string StringID = "Interact"
-         1 string Localized = "Interact"
+         1 string Localized = "Взаимодействовать"
        [556]
         0 LocalizedString data
          1 string StringID = "Inventory"
-         1 string Localized = "Inventory"
+         1 string Localized = "Инвентарь"
        [557]
         0 LocalizedString data
          1 string StringID = "Map"
-         1 string Localized = "Map"
+         1 string Localized = "Карта"
        [558]
         0 LocalizedString data
          1 string StringID = "Run"
-         1 string Localized = "Run (Hold)"
+         1 string Localized = "Бежать (Удерживать)"
        [559]
         0 LocalizedString data
          1 string StringID = "Aim Mode"
-         1 string Localized = "Aim Mode (Hold)"
+         1 string Localized = "Режим прицеливания (Удерживать)"
        [560]
         0 LocalizedString data
          1 string StringID = "Attack"
-         1 string Localized = "Attack"
+         1 string Localized = "Атаковать"
        [561]
         0 LocalizedString data
          1 string StringID = "Reload"
-         1 string Localized = "Reload"
+         1 string Localized = "Перезарядиться"
        [562]
         0 LocalizedString data
          1 string StringID = "Toggle Radio"
-         1 string Localized = "Toggle Radio"
+         1 string Localized = "Включить радио"
        [563]
         0 LocalizedString data
          1 string StringID = "Rebind Gamepad"
-         1 string Localized = "Rebind gamepad controls."
+         1 string Localized = "Изменить настройки управления контроллера."
        [564]
         0 LocalizedString data
          1 string StringID = "Rebind Keyboard"
-         1 string Localized = "Rebind Keyboard controls."
+         1 string Localized = "Изменить настройки управления клавиатурой."
        [565]
         0 LocalizedString data
          1 string StringID = "Rebind IconStyle"
-         1 string Localized = "Set icon style (only available for xinput controllers.)"
+         1 string Localized = "Выбрать стиль иконок (доступно только для xinput контроллеров.)"
        [566]
         0 LocalizedString data
          1 string StringID = "Rebind PrevGamepad"
-         1 string Localized = "Select previous gamepad."
+         1 string Localized = "Выбрать предыдущий контроллер."
        [567]
         0 LocalizedString data
          1 string StringID = "Rebind NextGamepad"
-         1 string Localized = "Select next gamepad."
+         1 string Localized = "Выбрать следующий геймпад."
        [568]
         0 LocalizedString data
          1 string StringID = "Rebind MoveHori"
@@ -2283,507 +2283,507 @@
        [569]
         0 LocalizedString data
          1 string StringID = "Rebind MoveRight"
-         1 string Localized = "Moves Character to the right (relative to the screen)."
+         1 string Localized = "Движение персонажа вправо (относительно экрана)."
        [570]
         0 LocalizedString data
          1 string StringID = "Rebind MoveLeft"
-         1 string Localized = "Moves Character to the left (relative to the screen)."
+         1 string Localized = "Движение персонажа влево (относительно экрана)."
        [571]
         0 LocalizedString data
          1 string StringID = "Rebind MoveVert"
-         1 string Localized = "Up and Down Character Movement Axis."
+         1 string Localized = "Ось движения персонажа вверх/вниз."
        [572]
         0 LocalizedString data
          1 string StringID = "Rebind MoveDown"
-         1 string Localized = "Moves Character downwards (relative to the screen)."
+         1 string Localized = "Движение персонажа вниз (относительно экрана)."
        [573]
         0 LocalizedString data
          1 string StringID = "Rebind MoveUp"
-         1 string Localized = "Moves Character upwards (relative to the screen)."
+         1 string Localized = "Движение персонажа вниз (относительно экрана)."
        [574]
         0 LocalizedString data
          1 string StringID = "Rebind AimHori"
-         1 string Localized = "Aim weapon horizontally (relative to the screen)."
+         1 string Localized = "Прицеливание оружием по горизонтали (относительно экрана)."
        [575]
         0 LocalizedString data
          1 string StringID = "Rebind AimVert"
-         1 string Localized = "Aim weapon vertically (relative to the screen)."
+         1 string Localized = "Прицеливание оружием по вертикали (относительно экрана)."
        [576]
         0 LocalizedString data
          1 string StringID = "Rebind Use"
-         1 string Localized = "Main Key used for interacting (use, pick up, inspect)."
+         1 string Localized = "Основная кнопка взаимодействия (использовать, поднять, осмотреть)."
        [577]
         0 LocalizedString data
          1 string StringID = "Rebind Aim"
-         1 string Localized = "Hold to draw equipped weapon."
+         1 string Localized = "Удерживайте, чтобы достать экипированное оружие."
        [578]
         0 LocalizedString data
          1 string StringID = "Rebind Inventory"
-         1 string Localized = "Toggles the inventory screen."
+         1 string Localized = "Включает инвентарь."
        [579]
         0 LocalizedString data
          1 string StringID = "Rebind Sprint"
-         1 string Localized = "Hold to move faster."
+         1 string Localized = "Удерживайте, чтобы бежать."
        [580]
         0 LocalizedString data
          1 string StringID = "Rebind Fire"
-         1 string Localized = "Press to use equipped weapon while aiming."
+         1 string Localized = "Нажмите, чтобы использовать экипированное оружие во время прицеливания."
        [581]
         0 LocalizedString data
          1 string StringID = "Rebind Reload"
-         1 string Localized = "Press to reload equipped weapon while aiming."
+         1 string Localized = "Нажмите, чтобы перезарядить экипированное оружие."
        [582]
         0 LocalizedString data
          1 string StringID = "Rebind Map"
-         1 string Localized = "Open the map screen."
+         1 string Localized = "Открывает карту."
        [583]
         0 LocalizedString data
          1 string StringID = "Rebind Radio"
-         1 string Localized = "Toggles the radio."
+         1 string Localized = "Включает/выключает радио."
        [584]
         0 LocalizedString data
          1 string StringID = "Rebind Tune"
-         1 string Localized = "Radio frequency tuning Axis."
+         1 string Localized = "Ось настройки частоты радио."
        [585]
         0 LocalizedString data
          1 string StringID = "Rebind TuneRight"
-         1 string Localized = "Press to tune the radio frequency right."
+         1 string Localized = "Нажмите, чтобы настроить частоту радио правее."
        [586]
         0 LocalizedString data
          1 string StringID = "Rebind TuneLeft"
-         1 string Localized = "Press to tune the radio frequency left."
+         1 string Localized = "Нажмите, чтобы настроить частоту радио левее."
        [587]
         0 LocalizedString data
          1 string StringID = "Rebind Save"
-         1 string Localized = "Save changes."
+         1 string Localized = "Применить изменения."
        [588]
         0 LocalizedString data
          1 string StringID = "Rebind Reset"
-         1 string Localized = "Reset all bindings to the defaults."
+         1 string Localized = "Сбросить настройки клавиш до настроек по умолчанию."
        [589]
         0 LocalizedString data
          1 string StringID = "Rebind Cancel"
-         1 string Localized = "Unsaved changes will be lost."
+         1 string Localized = "Несохраненные изменения будут потеряны."
        [590]
         0 LocalizedString data
          1 string StringID = "Rebind NoController"
-         1 string Localized = "No Controller attached"
+         1 string Localized = "Контроллер не обнаружен"
        [591]
         0 LocalizedString data
          1 string StringID = "Rebind ConnectPrompt"
-         1 string Localized = "Connect a controller\nto assign Controls"
+         1 string Localized = "Подключите контроллер,\nчтобы изменить настройки кнопок"
        [592]
         0 LocalizedString data
          1 string StringID = "Rebind AssignPrompt"
-         1 string Localized = "Press key to assign\nPress ESC to cancel"
+         1 string Localized = "Нажмите любуй клавишу\nНажмите ESC, чтобы отменить"
        [593]
         0 LocalizedString data
          1 string StringID = "Help Move"
-         1 string Localized = "Move"
+         1 string Localized = "Движение"
        [594]
         0 LocalizedString data
          1 string StringID = "Help Interact"
-         1 string Localized = "Interact"
+         1 string Localized = "Перемещение"
        [595]
         0 LocalizedString data
          1 string StringID = "Help Run"
-         1 string Localized = "Run"
+         1 string Localized = "Бег"
        [596]
         0 LocalizedString data
          1 string StringID = "Help Inventory"
-         1 string Localized = "Inventory"
+         1 string Localized = "Инвентарь"
        [597]
         0 LocalizedString data
          1 string StringID = "Help Map"
-         1 string Localized = "Map"
+         1 string Localized = "Карта"
        [598]
         0 LocalizedString data
          1 string StringID = "Help Modules"
-         1 string Localized = "Modules"
+         1 string Localized = "Модули"
        [599]
         0 LocalizedString data
          1 string StringID = "Help Tune"
-         1 string Localized = "Tune Radio"
+         1 string Localized = "Настройка радио"
        [600]
         0 LocalizedString data
          1 string StringID = "Help Ready"
-         1 string Localized = "Ready Weapon"
+         1 string Localized = "Подготовка оружия"
        [601]
         0 LocalizedString data
          1 string StringID = "Help Fire"
-         1 string Localized = "Fire Weapon"
+         1 string Localized = "Стрельба"
        [602]
         0 LocalizedString data
          1 string StringID = "Help Reload"
-         1 string Localized = "Reload"
+         1 string Localized = "Перезарядка"
        [603]
         0 LocalizedString data
          1 string StringID = "Help Tool"
-         1 string Localized = "Use Tool"
+         1 string Localized = "Исп. Инструмента"
        [604]
         0 LocalizedString data
          1 string StringID = "Help Aim"
-         1 string Localized = "Aim"
+         1 string Localized = "Прицеливание"
        [605]
         0 LocalizedString data
          1 string StringID = "Help Mouse"
-         1 string Localized = "Mouse"
+         1 string Localized = "Мышь"
        [606]
         0 LocalizedString data
          1 string StringID = "Help FireRun"
-         1 string Localized = "Fire Weapon / Run"
+         1 string Localized = "Стрельба / Бег"
        [607]
         0 LocalizedString data
          1 string StringID = "Name ELSTER"
-         1 string Localized = "ELSTER"
+         1 string Localized = "ЭЛСТЕР"
        [608]
         0 LocalizedString data
          1 string StringID = "Name STAR"
-         1 string Localized = "STAR"
+         1 string Localized = "СТАР"
        [609]
         0 LocalizedString data
          1 string StringID = "Name GESTALT"
-         1 string Localized = "GESTALT"
+         1 string Localized = "ГЕШТАЛЬТ"
        [610]
         0 LocalizedString data
          1 string StringID = "Name ISA"
-         1 string Localized = "ISA"
+         1 string Localized = "ИЗА"
        [611]
         0 LocalizedString data
          1 string StringID = "Name ARIANE"
-         1 string Localized = "ARIANE"
+         1 string Localized = "АРИАНА"
        [612]
         0 LocalizedString data
          1 string StringID = "Name ADLER"
-         1 string Localized = "ADLER"
+         1 string Localized = "АДЛЕР"
        [613]
         0 LocalizedString data
          1 string StringID = "Name FALKE"
-         1 string Localized = "FALKE"
+         1 string Localized = "ФАЛКЕ"
        [614]
         0 LocalizedString data
          1 string StringID = "Name STORCH"
-         1 string Localized = "STORCH"
+         1 string Localized = "СТОРЧ"
        [615]
         0 LocalizedString data
          1 string StringID = "Name EULE"
-         1 string Localized = "EULE"
+         1 string Localized = "ОЙЛЕ"
        [616]
         0 LocalizedString data
          1 string StringID = "Name KOLIBRI"
-         1 string Localized = "KOLIBRI"
+         1 string Localized = "КОЛИБРИ"
        [617]
         0 LocalizedString data
          1 string StringID = "Name MYNAH"
-         1 string Localized = "MYNAH"
+         1 string Localized = "МАЙНА"
        [618]
         0 LocalizedString data
          1 string StringID = "Name BEO"
-         1 string Localized = "BEO"
+         1 string Localized = "БЕО"
        [619]
         0 LocalizedString data
          1 string StringID = "Name ARAR"
-         1 string Localized = "ARA"
+         1 string Localized = "АРА"
        [620]
         0 LocalizedString data
          1 string StringID = "PEN_Intro_Wake"
-         1 string Localized = "wake up."
+         1 string Localized = "проснись."
        [621]
         0 LocalizedString data
          1 string StringID = "PEN_Opening_Wake"
-         1 string Localized = "WAKE UP"
+         1 string Localized = "ПРОСНИСЬ"
        [622]
         0 LocalizedString data
          1 string StringID = "PEN_Opening_Send"
-         1 string Localized = "PREPARING TO SEND MESSAGE"
+         1 string Localized = "ПОДГОТОВКА К ОТПРАВКЕ СООБЩЕНИЯ"
        [623]
         0 LocalizedString data
          1 string StringID = "PEN_Opening_Holes"
-         1 string Localized = "GREAT HOLES SECRETLY ARE DIGGED \nWHERE EARTHS PORES OUGHT TO SUFFICE"
+         1 string Localized = "ШИРОКИЕ ДЫРЫ ТАЙНО ВЫРЫТЫ ТАМ \nГДЕ ПОРЫ ЗЕМЛИ ДОЛЖНЫ БЫЛИ БЫ БЫТЬ ДОСТАТОЧНЫ"
        [624]
         0 LocalizedString data
          1 string StringID = "PEN_Opening_Crawl"
-         1 string Localized = "AND THINGS HAVE LEARNT TO WALK \nTHAT OUGHT TO CRAWL"
+         1 string Localized = "И СУЩЕСТВА НАУЧИЛИСЬ ХОДИТЬ ТАМ \nГДЕ ИМ СЛЕДОВАЛО ПОЛЗАТЬ"
        [625]
         0 LocalizedString data
          1 string StringID = "PEN_Opening_Promise"
-         1 string Localized = "REMEMBER OUR PROMISE"
+         1 string Localized = "ПОМНИ НАШЕ ОБЕЩАНИЕ"
        [626]
         0 LocalizedString data
          1 string StringID = "LOV_Star_1"
-         1 string Localized = "[STAR] …an Elster unit?\n[STAR] You should leave this place.\n[STAR] This facility is lost.\n[STAR] Turn back before it's too late."
+         1 string Localized = "[СТАР] …А? Элстер Юнит?\n[СТАР] Тебе следует покинуть это место.\n[СТАР] Этот объект уже обречён.\n[СТАР] Сворачивай обратно, пока не стало слишком поздно."
        [627]
         0 LocalizedString data
          1 string StringID = "LOV_Star_2"
-         1 string Localized = "[Elster] I'm looking for this woman."
+         1 string Localized = "[ЭЛСТЕР] Я ищу эту женщину."
        [628]
         0 LocalizedString data
          1 string StringID = "LOV_Star_3"
-         1 string Localized = "[Elster] Have you seen her?"
+         1 string Localized = "[ЭЛСТЕР] Ты её видела?"
        [629]
         0 LocalizedString data
          1 string StringID = "LOV_Star_4"
-         1 string Localized = "[STAR] I don't know her, but she might be one of the workers."
+         1 string Localized = "[СТАР] Не знаю её, но может быть, она одна из работников."
        [630]
         0 LocalizedString data
          1 string StringID = "LOV_Star_5"
-         1 string Localized = "[STAR] All Gestalt workers were sent to the mine below the facility.\n[STAR] If she's still alive, she's probably down there."
+         1 string Localized = "[СТАР] Все Гештальт работники были отправлены в шахты под объектом.\n[СТАР] Если она ещё жива, то скорее всего она все ещё там."
        [631]
         0 LocalizedString data
          1 string StringID = "LOV_Star_7"
-         1 string Localized = "[STAR] There's an access elevator to the mineshaft one level below, but you'll need an administrator's key to use it."
+         1 string Localized = "[СТАР] Уровнем ниже, тут есть лифт с доступом в шахты, но тебе понадобится ключ администратора, чтобы использовать его."
        [632]
         0 LocalizedString data
          1 string StringID = "LOV_Isa_1"
-         1 string Localized = "[Gestalt] Oh, hello."
+         1 string Localized = "[Гештальт] О, привет."
        [633]
         0 LocalizedString data
          1 string StringID = "LOV_Isa_2"
-         1 string Localized = "[Gestalt] You don't belong here either, do you?\n[Gestalt] I'm Isa.§Isa Itou.\n[Isa] You should be careful. There's something wrong with this place.\n[Isa] I don't know what happened, but it's probably dangerous to go any further.\n[Elster] ...\n[Isa] That's okay, I understand.\n[Isa] I have something I need to do, too.\n[Isa] Take care.\n[Isa] I hope you find who you're looking for."
+         1 string Localized = "[Гештальт] Ты тоже не из этих мест, так ведь?\n[Гештальт] Я Иза.§Иза Ито.\n[Иза] Тебе следует быть осторожнее здесь. С этим местом явно что-то не так.\n[Иза] Я не знаю, что произошло, но скорее всего, двигаться ещё дальше по этому месту опасно.\n[ЭЛСТЕР] ...\n[Иза] Все хорошо, я понимаю.\n[Иза] У меня тут тоже есть незавершенные дела.\n[Иза] Береги себя.\n[Иза] И удачи тебе в нахождении того, кого ты ищешь."
        [634]
         0 LocalizedString data
          1 string StringID = "MED_Adler_7"
-         1 string Localized = "[Adler] A visitor.\n[Adler] Welcome to our facility."
+         1 string Localized = "[Адлер] Посетитель.\n[Адлер] Добро пожаловать на наш объект."
        [635]
         0 LocalizedString data
          1 string StringID = "MED_Adler_9"
-         1 string Localized = "[Adler] You've caught us at an unfortunate time.\n[Adler] How can I help you?"
+         1 string Localized = "[Адлер] Вы пришли в довольно-таки неудачное для нас время.\n[Адлер] Как я могу вам помочь?"
        [636]
         0 LocalizedString data
          1 string StringID = "MED_Adler_10"
-         1 string Localized = "[Elster] I'm looking for a Gestalt."
+         1 string Localized = "[ЭЛСТЕР] Я ищу одного Гештальта."
        [637]
         0 LocalizedString data
          1 string StringID = "MED_Adler_11"
-         1 string Localized = "[Adler] A worker at our facility?\n[Adler] Let me see that picture."
+         1 string Localized = "[Адлер] Один из работников нашего объекта?\n[Адлер] Позвольте мне взглянуть на ту фотографию."
        [638]
         0 LocalizedString data
          1 string StringID = "MED_Adler_12"
-         1 string Localized = "[Adler] Alina Seo.\n[Adler] I believe she's one of our factory workers.\n[Adler] However…"
+         1 string Localized = "[Адлер] Алина Сео.\n[Адлер] Я думаю, она работница нашего объекта.\n[Адлер] В любом случае…"
        [639]
         0 LocalizedString data
          1 string StringID = "MED_Adler_13"
-         1 string Localized = "[Adler] You shouldn't have returned."
+         1 string Localized = "[Адлер] Тебе не стоило возвращаться."
        [640]
         0 LocalizedString data
          1 string StringID = "MED_Adler_16"
-         1 string Localized = "a dream about dreaming"
+         1 string Localized = "сон внутри сна"
        [641]
         0 LocalizedString data
          1 string StringID = "EXC_Fight_2"
-         1 string Localized = "[Adler] I know you're here."
+         1 string Localized = "[Адлер] Я знаю, ты здесь."
        [642]
         0 LocalizedString data
          1 string StringID = "EXC_Fight_3"
-         1 string Localized = "[Adler] I've done this countless times before."
+         1 string Localized = "[Адлер] Я делал это уже бесчисленное множество раз до этого."
        [643]
         0 LocalizedString data
          1 string StringID = "EXC_Fight_4"
-         1 string Localized = "[Adler] You don't belong here."
+         1 string Localized = "[Адлер] Ты не должна быть здесь."
        [644]
         0 LocalizedString data
          1 string StringID = "LAB_Gate_3"
-         1 string Localized = "[Adler] It's impossible to move on.\n[Adler] I have been here so many times, but I have never returned.\n[Adler] The Commander never spoke about what she saw out there."
+         1 string Localized = "[Адлер] Двигаться дальше попросту невозможно.\n[Адлер] Я был здесь так много раз, но ни разу не возвращался.\n[Адлер] Командир никогда не говорила о том, что она увидела там, снаружи."
        [645]
         0 LocalizedString data
          1 string StringID = "LAB_Gate_5"
-         1 string Localized = "[Adler] I'm sure whatever it was, it was what made her fall sick.\n[Adler] Something about her changed when she returned.\n[Adler] She was no longer our beloved Leader Falke.\n[Adler] What waits beyond the threshold?"
+         1 string Localized = "[Адлер] Я уверен, что чем бы это ни было, именно оно сделало её больной.\n[Адлер] Что-то в ней изменилось, когда она вернулась.\n[Адлер] Она больше не была нашей любимой Лидером Фалке.\n[Адлер] Что ждёт по ту сторону порога?"
        [646]
         0 LocalizedString data
          1 string StringID = "LAB_Gate_6"
-         1 string Localized = "[Elster] It doesn't matter."
+         1 string Localized = "[ЭЛСТЕР] Это не имеет значения."
        [647]
         0 LocalizedString data
          1 string StringID = "LAB_Gate_7"
-         1 string Localized = "At the end."
+         1 string Localized = "В конце."
        [648]
         0 LocalizedString data
          1 string StringID = "LAB_Gate_8"
-         1 string Localized = "The way home."
+         1 string Localized = "Путь домой."
        [649]
         0 LocalizedString data
          1 string StringID = "LAB_Gate_9"
-         1 string Localized = "I'm waiting."
+         1 string Localized = "Я жду."
        [650]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_1"
-         1 string Localized = "Beyond the gate,"
+         1 string Localized = "За вратами,"
        [651]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_1b"
-         1 string Localized = "emptiness."
+         1 string Localized = "пустота."
        [652]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_2"
-         1 string Localized = "Who are you?"
+         1 string Localized = "Кто ты?"
        [653]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_3"
-         1 string Localized = "Come closer."
+         1 string Localized = "Подойди ближе."
        [654]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_4"
-         1 string Localized = "I've been waiting."
+         1 string Localized = "Я ждала."
        [655]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_5"
-         1 string Localized = "For you."
+         1 string Localized = "Тебя."
        [656]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_6"
-         1 string Localized = "For us."
+         1 string Localized = "Нас."
        [657]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_7"
-         1 string Localized = "Remember"
+         1 string Localized = "Вспомни"
        [658]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_8"
-         1 string Localized = "Remember our promise."
+         1 string Localized = "Вспомни наше обещание."
        [659]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_9"
-         1 string Localized = "Be not afraid."
+         1 string Localized = "Не бойся."
        [660]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_10"
-         1 string Localized = "Wake up."
+         1 string Localized = "Проснись."
        [661]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_11"
-         1 string Localized = "What are you looking for?"
+         1 string Localized = "Что ты ищешь?"
        [662]
         0 LocalizedString data
          1 string StringID = "LAB_Crash_Wake"
-         1 string Localized = "Wake up"
+         1 string Localized = "Проснись"
        [663]
         0 LocalizedString data
          1 string StringID = "MEM_Ariane_2"
-         1 string Localized = "[Ariane] Elster!\n[Ariane] You're up!"
+         1 string Localized = "[Ариана] Элстер!\n[Ариана] Ты проснулась!"
        [664]
         0 LocalizedString data
          1 string StringID = "MEM_Ariane_3"
-         1 string Localized = "[Ariane] I missed you.\n[Elster] I missed you, too.\n[Ariane] Ah, it's our 3000 cycle anniversary!\n[Ariane] We'll be getting the updated mission parameters later, so I thought it'd be nice to celebrate.\n[Ariane] Wait, let me put on some music!"
+         1 string Localized = "[Ариана] Я скучала...\n[ЭЛСТЕР] Я тоже скучала.\n[Ариана] Ах, сегодня у нас юбилей - три тысячи циклов!\n[Ариана] Мы получим обновлённые параметры миссии позже, так что я подумала, что было бы неплохо отпраздновать.\n[Ариана] Постой, я включу музыку!"
        [665]
         0 LocalizedString data
          1 string StringID = "MEM_Promise_4"
-         1 string Localized = "DO YOU REMEMBER OUR PROMISE?"
+         1 string Localized = "ТЫ ПОМНИШЬ НАШЕ ОБЕЩАНИЕ?"
        [666]
         0 LocalizedString data
          1 string StringID = "MEM_Repair_5"
-         1 string Localized = "I MADE A PROMISE."
+         1 string Localized = "Я СДЕЛАЛА ОБЕЩАНИЕ."
        [667]
         0 LocalizedString data
          1 string StringID = "MEM_Repair_7"
-         1 string Localized = "I'LL DO ANYTHING."
+         1 string Localized = "Я СДЕЛАЮ ЧТО УГОДНО."
        [668]
         0 LocalizedString data
          1 string StringID = "BIO_Vineta_4"
-         1 string Localized = "[Adler] You've changed."
+         1 string Localized = "[Адлер] Ты изменилась."
        [669]
         0 LocalizedString data
          1 string StringID = "BIO_Vineta_6"
-         1 string Localized = "[Adler] It's like everything was taken apart\n[Adler] and put back together\n[Adler] by someone who doesn't understand how it works."
+         1 string Localized = "[Адлер] Как-будто, все было разобрано на части\n[Адлер] и собрано обратно\n[Адлер] кем-то, кто не знает как это работает."
        [670]
         0 LocalizedString data
          1 string StringID = "BIO_Vineta_8"
-         1 string Localized = "[Adler] I wear no mask."
+         1 string Localized = "[Адлер] На мне нет маски."
        [671]
         0 LocalizedString data
          1 string StringID = "BIO_Vineta_12"
-         1 string Localized = "And now,"
+         1 string Localized = "А сейчас,"
        [672]
         0 LocalizedString data
          1 string StringID = "ROT_Isa_2"
-         1 string Localized = "[Isa] I couldn't find her…\n[Isa] I've looked everywhere,\n[Isa] but she's not here anymore.\n[Isa] I can't go on.\n[Isa] I'm sorry…"
+         1 string Localized = "[Иза] Я не смогла найти её…\n[Иза] Я искала везде,\n[Иза] но её уже нет с нами.\n[Иза] Я больше не могу идти дальше.\n[Иза] Прости меня…"
        [673]
         0 LocalizedString data
          1 string StringID = "ROT_Isa_3"
-         1 string Localized = "Forgive me."
+         1 string Localized = "Прости меня."
        [674]
         0 LocalizedString data
          1 string StringID = "END_Falke_4"
-         1 string Localized = "[Falke] Why did you return?\n[Falke] There's nothing for you here."
+         1 string Localized = "[Фалке] Зачем ты вернулась?\n[Фалке] Тебе здесь нечего искать."
        [675]
         0 LocalizedString data
          1 string StringID = "END_Falke_4a"
-         1 string Localized = "[Falke] She'll never dance with us again,\n[Falke] no matter what we do.\n[Falke] She doesn't even want us anymore."
+         1 string Localized = "[Фалке] Она больше никогда не станцует с нами,\n[Фалке] не важно, что мы будем делать.\n[Фалке] Она больше не хочет нас."
        [676]
         0 LocalizedString data
          1 string StringID = "END_Falke_3"
-         1 string Localized = "[Falke] Both of us, we are incomplete.\n[Falke] Let us become whole again."
+         1 string Localized = "[Фалке] Both of us, we are incomplete.\n[Фалке] Let us become whole again."
        [677]
         0 LocalizedString data
          1 string StringID = "END_Promise_2a"
-         1 string Localized = "[Falke] Now we are one."
+         1 string Localized = "[Фалке] Now we are one."
        [678]
         0 LocalizedString data
          1 string StringID = "END_Adler_1"
-         1 string Localized = "[Adler] You've returned."
+         1 string Localized = "[Адлер] You've returned."
        [679]
         0 LocalizedString data
          1 string StringID = "END_Adler_2"
-         1 string Localized = "[Adler] Are you really willing to go through with this once more?\n[Adler] You've seen what happens.\n[Adler] This world cannot take much more.\n[Adler] This may be our last chance."
+         1 string Localized = "[Адлер] Are you really willing to go through with this once more?\n[Адлер] You've seen what happens.\n[Адлер] This world cannot take much more.\n[Адлер] This may be our last chance."
        [680]
         0 LocalizedString data
          1 string StringID = "END_Adler_4"
-         1 string Localized = "[Adler] If you go back,\n[Adler] it'll all fall apart.\n[Adler] I can't let that happen."
+         1 string Localized = "[Адлер] If you go back,\n[Адлер] it'll all fall apart.\n[Адлер] I can't let that happen."
        [681]
         0 LocalizedString data
          1 string StringID = "END_Adler_9"
-         1 string Localized = "[Adler] ...you'll destroy everything."
+         1 string Localized = "[Адлер] ...you'll destroy everything."
        [682]
         0 LocalizedString data
          1 string StringID = "END_Adler_9_Leave"
-         1 string Localized = "[Adler] You selfish monster.\n[Adler] You can't just leave."
+         1 string Localized = "[Адлер] You selfish monster.\n[Адлер] You can't just leave."
        [683]
         0 LocalizedString data
          1 string StringID = "END_Adler_9_Death"
-         1 string Localized = "[Adler] You'll kill us all."
+         1 string Localized = "[Адлер] You'll kill us all."
        [684]
         0 LocalizedString data
          1 string StringID = "END_Circle_4"
-         1 string Localized = "[Elster] I've come back for you."
+         1 string Localized = "[ЭЛСТЕР] I've come back for you."
        [685]
         0 LocalizedString data
          1 string StringID = "END_Circle_6"
-         1 string Localized = "[Ariane] …who are you?"
+         1 string Localized = "[Ариана] …who are you?"
        [686]
         0 LocalizedString data
          1 string StringID = "END_Circle_7"
-         1 string Localized = "[Elster] It's me, Elster…"
+         1 string Localized = "[ЭЛСТЕР] It's me, Elster…"
        [687]
         0 LocalizedString data
          1 string StringID = "END_Circle_8"
-         1 string Localized = "[Ariane] …Elster?"
+         1 string Localized = "[Ариана] …Elster?"
        [688]
         0 LocalizedString data
          1 string StringID = "END_Circle_8a"
-         1 string Localized = "[Ariane] I'm sorry, but I don't remember."
+         1 string Localized = "[Ариана] I'm sorry, but I don't remember."
        [689]
         0 LocalizedString data
          1 string StringID = "END_Circle_9"
-         1 string Localized = "[Elster] It's okay."
+         1 string Localized = "[ЭЛСТЕР] It's okay."
        [690]
         0 LocalizedString data
          1 string StringID = "END_Circle_10"
-         1 string Localized = "[Elster] Please, \n[Elster] just let me stay by your side\n[Elster] a little longer."
+         1 string Localized = "[ЭЛСТЕР] Please, \n[ЭЛСТЕР] just let me stay by your side\n[ЭЛСТЕР] a little longer."
        [691]
         0 LocalizedString data
          1 string StringID = "END_Death_4"
-         1 string Localized = "[Ariane] Elster."
+         1 string Localized = "[Ариана] Elster."
        [692]
         0 LocalizedString data
          1 string StringID = "END_Death_6"
-         1 string Localized = "[Elster] ...I can't do it."
+         1 string Localized = "[ЭЛСТЕР] ...I can't do it."
        [693]
         0 LocalizedString data
          1 string StringID = "END_Death_7"
-         1 string Localized = "[Ariane] You have to do it.\n[Ariane] It's time for this to end."
+         1 string Localized = "[Ариана] You have to do it.\n[Ариана] It's time for this to end."
        [694]
         0 LocalizedString data
          1 string StringID = "END_Death_8"
-         1 string Localized = "[Ariane] Please."
+         1 string Localized = "[Ариана] Please."
        [695]
         0 LocalizedString data
          1 string StringID = "END_Death_10"
@@ -2815,43 +2815,43 @@
        [702]
         0 LocalizedString data
          1 string StringID = "LOV_Star_NPC1"
-         1 string Localized = "[STAR] I'll be out of here as soon as this Repair Patch stops my bleeding.\n[STAR] You should get out of here too.\n[STAR] I don't know who that woman is but she's probably dead by now.\n[STAR] If you still want to go, good luck."
+         1 string Localized = "[СТАР] I'll be out of here as soon as this Repair Patch stops my bleeding.\n[СТАР] You should get out of here too.\n[СТАР] I don't know who that woman is but she's probably dead by now.\n[СТАР] If you still want to go, good luck."
        [703]
         0 LocalizedString data
          1 string StringID = "LOV_Star_NPC2"
-         1 string Localized = "[STAR] There's an access elevator to the mineshaft one level below, but you'll need an administrator's key to use it.\n[STAR] If she's still alive, she's probably down there."
+         1 string Localized = "[СТАР] There's an access elevator to the mineshaft one level below, but you'll need an administrator's key to use it.\n[СТАР] If she's still alive, she's probably down there."
        [704]
         0 LocalizedString data
          1 string StringID = "LOV_Star_NPC3"
-         1 string Localized = "[STAR] You're not a Protektor, so I can't tell you any more than I already have.\n[STAR] They'd decommission us both."
+         1 string Localized = "[СТАР] You're not a Protektor, so I can't tell you any more than I already have.\n[СТАР] They'd decommission us both."
        [705]
         0 LocalizedString data
          1 string StringID = "LOV_Star_NPC4"
-         1 string Localized = "[STAR] I'll be out of here as soon as this Repair Patch stops my bleeding."
+         1 string Localized = "[СТАР] I'll be out of here as soon as this Repair Patch stops my bleeding."
        [706]
         0 LocalizedString data
          1 string StringID = "DET_Isa_1"
-         1 string Localized = "[Isa] Ah, it's you again!\n[Isa] I'm glad you're still okay.\n[Isa] Have you found who you're looking for?"
+         1 string Localized = "[Иза] Ah, it's you again!\n[Иза] I'm glad you're still okay.\n[Иза] Have you found who you're looking for?"
        [707]
         0 LocalizedString data
          1 string StringID = "DET_Isa_2"
-         1 string Localized = "[Isa] I'm looking for someone, too…\n[Isa] My sister.\n[Isa] If you see her, would you tell her I'm looking for her?\n[Isa] Don't worry, you'll recognize her when you see her."
+         1 string Localized = "[Иза] I'm looking for someone, too…\n[Иза] My sister.\n[Иза] If you see her, would you tell her I'm looking for her?\n[Иза] Don't worry, you'll recognize her when you see her."
        [708]
         0 LocalizedString data
          1 string StringID = "DET_Isa_3"
-         1 string Localized = "[Isa] Have you ever wondered if you're speaking to someone for the last time without knowing?\n[Isa] I wish I could go back, so I could say something else."
+         1 string Localized = "[Иза] Have you ever wondered if you're speaking to someone for the last time without knowing?\n[Иза] I wish I could go back, so I could say something else."
        [709]
         0 LocalizedString data
          1 string StringID = "DET_Isa_4"
-         1 string Localized = "[Isa] This place… is very strange, isn't it?\n[Isa] I wonder what happened here.\n[Isa] But it doesn't really matter."
+         1 string Localized = "[Иза] This place… is very strange, isn't it?\n[Иза] I wonder what happened here.\n[Иза] But it doesn't really matter."
        [710]
         0 LocalizedString data
          1 string StringID = "DET_Isa_5"
-         1 string Localized = "[Isa] You don't need to worry about me.\n[Isa] I can take care of myself now.\n[Isa] I can't keep relying on others.\n[Isa] That's why she left me, after all.\n[Isa] I'm sure of that now."
+         1 string Localized = "[Иза] You don't need to worry about me.\n[Иза] I can take care of myself now.\n[Иза] I can't keep relying on others.\n[Иза] That's why she left me, after all.\n[Иза] I'm sure of that now."
        [711]
         0 LocalizedString data
          1 string StringID = "DET_Isa_6"
-         1 string Localized = "[Isa] …"
+         1 string Localized = "[Иза] …"
        [712]
         0 LocalizedString data
          1 string StringID = "DET_Storch_1"
@@ -2959,51 +2959,51 @@
        [738]
         0 LocalizedString data
          1 string StringID = "EXC_Star_1"
-         1 string Localized = "[Star] Hey, don't cry.\n[Star] It'll be over soon.\n[Eule] … "
+         1 string Localized = "[СТАР] Hey, don't cry.\n[СТАР] It'll be over soon.\n[Eule] … "
        [739]
         0 LocalizedString data
          1 string StringID = "EXC_Star_2"
-         1 string Localized = "[Star] Remember that time we went to the surface?\n[Star] The stars were so beautiful…\n[Star] I wish we could go there again.\n[Eule] … "
+         1 string Localized = "[СТАР] Remember that time we went to the surface?\n[СТАР] The stars were so beautiful…\n[СТАР] I wish we could go there again.\n[Eule] … "
        [740]
         0 LocalizedString data
          1 string StringID = "EXC_Star_3"
-         1 string Localized = "[Star] Hey, listen.\n[Star] I'll let you in on a secret.\n[Star] I can remember my name,\n[Star] from my old life.\n[Star] Isn't that funny?\n[Eule] … "
+         1 string Localized = "[СТАР] Hey, listen.\n[СТАР] I'll let you in on a secret.\n[СТАР] I can remember my name,\n[СТАР] from my old life.\n[СТАР] Isn't that funny?\n[Eule] … "
        [741]
         0 LocalizedString data
          1 string StringID = "EXC_Star_4"
-         1 string Localized = "[Star] Don't you want to know it?\n[Star] Here, I'll tell you.\n[Star] It'll be our secret together.\n[Star] So you can stop crying, okay?"
+         1 string Localized = "[СТАР] Don't you want to know it?\n[СТАР] Here, I'll tell you.\n[СТАР] It'll be our secret together.\n[СТАР] So you can stop crying, okay?"
        [742]
         0 LocalizedString data
          1 string StringID = "EXC_Star_5"
-         1 string Localized = "[Star] It'll be okay.\n[Star] Wherever it is I'm going,\n[Star] I'll wait for you there."
+         1 string Localized = "[СТАР] It'll be okay.\n[СТАР] Wherever it is I'm going,\n[СТАР] I'll wait for you there."
        [743]
         0 LocalizedString data
          1 string StringID = "EXC_Star_6"
-         1 string Localized = "[Star] …\n[Eule] …"
+         1 string Localized = "[СТАР] …\n[Eule] …"
        [744]
         0 LocalizedString data
          1 string StringID = "LAB_Isa1"
-         1 string Localized = "[Isa] Ugh…\n[Isa] Ah, it's you... Elster… right?\n[Isa] Thank you for your help.\n[Isa] Did you find who you were looking for yet?"
+         1 string Localized = "[Иза] Ugh…\n[Иза] Ah, it's you... Elster… right?\n[Иза] Thank you for your help.\n[Иза] Did you find who you were looking for yet?"
        [745]
         0 LocalizedString data
          1 string StringID = "LAB_Isa2"
-         1 string Localized = "[Isa] Ah, that rifle...\n[Isa] I don't think I want to use it again.\n[Isa] You can have it."
+         1 string Localized = "[Иза] Ah, that rifle...\n[Иза] I don't think I want to use it again.\n[Иза] You can have it."
        [746]
         0 LocalizedString data
          1 string StringID = "LAB_Isa3"
-         1 string Localized = "[Isa] I'm so exhausted…\n[Isa] I feel sick."
+         1 string Localized = "[Иза] I'm so exhausted…\n[Иза] I feel sick."
        [747]
         0 LocalizedString data
          1 string StringID = "LAB_Isa4"
-         1 string Localized = "[Isa] It's hard to breathe...\n[Isa] The air in this place feels thick, like you could bite it…"
+         1 string Localized = "[Иза] It's hard to breathe...\n[Иза] The air in this place feels thick, like you could bite it…"
        [748]
         0 LocalizedString data
          1 string StringID = "LAB_Isa5"
-         1 string Localized = "[Isa] It's like there's fog inside my head…\n[Isa] I think I need a moment to rest…"
+         1 string Localized = "[Иза] It's like there's fog inside my head…\n[Иза] I think I need a moment to rest…"
        [749]
         0 LocalizedString data
          1 string StringID = "LAB_Isa6"
-         1 string Localized = "[Isa] …"
+         1 string Localized = "[Иза] …"
        [750]
         0 LocalizedString data
          1 string StringID = "OptionsTab Advanced"
@@ -4067,31 +4067,31 @@
        [1015]
         0 LocalizedString data
          1 string StringID = "RES_School_Intro"
-         1 string Localized = "[Isa] I must have fallen asleep while waiting for Erika.\n[Isa] Did she already go home without me?\n[Isa] We wanted to get some books from the library together.\n[Isa] I should check if she's still there."
+         1 string Localized = "[Иза] I must have fallen asleep while waiting for Erika.\n[Иза] Did she already go home without me?\n[Иза] We wanted to get some books from the library together.\n[Иза] I should check if she's still there."
        [1016]
         0 LocalizedString data
          1 string StringID = "RES_School_Window1"
-         1 string Localized = "[Isa] It's snowing.\n[Isa] It always is."
+         1 string Localized = "[Иза] It's snowing.\n[Иза] It always is."
        [1017]
         0 LocalizedString data
          1 string StringID = "RES_School_Window2"
-         1 string Localized = "[Isa] Erika is probably waiting in the library for me."
+         1 string Localized = "[Иза] Erika is probably waiting in the library for me."
        [1018]
         0 LocalizedString data
          1 string StringID = "RES_School_Chairs"
-         1 string Localized = "[Isa] Everyone already went home."
+         1 string Localized = "[Иза] Everyone already went home."
        [1019]
         0 LocalizedString data
          1 string StringID = "RES_School_Blackboard"
-         1 string Localized = "[Isa] It's empty. The Eule always wipes it before I can get down all my notes, so I have to copy Erika's.\n[Isa] I'm glad we're in the same class, even if it confuses the teachers."
+         1 string Localized = "[Иза] It's empty. The Eule always wipes it before I can get down all my notes, so I have to copy Erika's.\n[Иза] I'm glad we're in the same class, even if it confuses the teachers."
        [1020]
         0 LocalizedString data
          1 string StringID = "RES_School_Leaders"
-         1 string Localized = "[Isa] Portraits of the Leaders."
+         1 string Localized = "[Иза] Portraits of the Leaders."
        [1021]
         0 LocalizedString data
          1 string StringID = "RES_School_Exit"
-         1 string Localized = "[Isa] I wanted to go to the library and look for Erika before I go home."
+         1 string Localized = "[Иза] I wanted to go to the library and look for Erika before I go home."
        [1022]
         0 LocalizedString data
          1 string StringID = "RES_School_RunSign"
